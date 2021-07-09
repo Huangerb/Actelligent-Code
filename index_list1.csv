@@ -1,0 +1,669 @@
+﻿BBG Ticker,Name,index,fsym id
+CDW US Equity,CDW Corp/DE,S5INFT,RTXD8D-R
+MXIM US Equity,Maxim Integrated Products Inc,S5INFT,F72PJT-R
+HPQ US Equity,HP Inc,S5INFT,MS57L1-R
+IBM US Equity,International Business Machines Corp,S5INFT,SJY281-R
+APH US Equity,Amphenol Corp,S5INFT,V2H5QG-R
+WU US Equity,Western Union Co/The,S5INFT,J9F59G-R
+ACN US Equity,Accenture PLC,S5INFT,BWDZ2P-R
+PTC US Equity,PTC Inc,S5INFT,BYP0PF-R
+VRSN US Equity,VeriSign Inc,S5INFT,NB76FG-R
+CSCO US Equity,Cisco Systems Inc/Delaware,S5INFT,GFJC62-R
+INTC US Equity,Intel Corp,S5INFT,HZ6Z7Q-R
+QRVO US Equity,Qorvo Inc,S5INFT,M8867B-R
+MSFT US Equity,Microsoft Corp,S5INFT,P8R3C2-R
+GPN US Equity,Global Payments Inc,S5INFT,KK1YRK-R
+NVDA US Equity,NVIDIA Corp,S5INFT,K7TPSX-R
+CTSH US Equity,Cognizant Technology Solutions Corp,S5INFT,NT38T5-R
+STX US Equity,Seagate Technology Holdings PLC,S5INFT,KXDMGL-R
+DXC US Equity,DXC Technology Co,S5INFT,B4PGFJ-R
+BR US Equity,Broadridge Financial Solutions Inc,S5INFT,MXZ7RW-R
+FFIV US Equity,F5 Networks Inc,S5INFT,JJ39BV-R
+AKAM US Equity,Akamai Technologies Inc,S5INFT,PX1NYT-R
+TXN US Equity,Texas Instruments Inc,S5INFT,HQ87P5-R
+WDC US Equity,Western Digital Corp,S5INFT,W00MKH-R
+ADP US Equity,Automatic Data Processing Inc,S5INFT,TY202Q-R
+JNPR US Equity,Juniper Networks Inc,S5INFT,X59HZ5-R
+IT US Equity,Gartner Inc,S5INFT,T67DJN-R
+CRM US Equity,salesforce.com Inc,S5INFT,GZMRSV-R
+NOW US Equity,ServiceNow Inc,S5INFT,MJ0XB7-R
+FLT US Equity,FleetCor Technologies Inc,S5INFT,WGXV7D-R
+AMD US Equity,Advanced Micro Devices Inc,S5INFT,RT66YK-R
+ADBE US Equity,Adobe Inc,S5INFT,DJC2TN-R
+AAPL US Equity,Apple Inc,S5INFT,MH33D6-R
+ADSK US Equity,Autodesk Inc,S5INFT,JXMLY8-R
+MA US Equity,Mastercard Inc,S5INFT,LQBB5R-R
+KLAC US Equity,KLA Corp,S5INFT,CZBYFY-R
+ANET US Equity,Arista Networks Inc,S5INFT,TNZ6CZ-R
+ORCL US Equity,Oracle Corp,S5INFT,HQ4DBK-R
+FIS US Equity,Fidelity National Information Services I,S5INFT,RGTY61-R
+AVGO US Equity,Broadcom Inc,S5INFT,B81TLL-R
+CDNS US Equity,Cadence Design Systems Inc,S5INFT,X1SCTR-R
+TYL US Equity,Tyler Technologies Inc,S5INFT,RT7HCR-R
+MPWR US Equity,Monolithic Power Systems Inc,S5INFT,VZYGFG-R
+SWKS US Equity,Skyworks Solutions Inc,S5INFT,DXVDJ4-R
+GLW US Equity,Corning Inc,S5INFT,K24537-R
+AMAT US Equity,Applied Materials Inc,S5INFT,M0H6M5-R
+JKHY US Equity,Jack Henry & Associates Inc,S5INFT,KW432H-R
+SNPS US Equity,Synopsys Inc,S5INFT,CPCV0Y-R
+HPE US Equity,Hewlett Packard Enterprise Co,S5INFT,F9VYPD-R
+TEL US Equity,TE Connectivity Ltd,S5INFT,T1N9NF-R
+FISV US Equity,Fiserv Inc,S5INFT,QLQKDC-R
+ANSS US Equity,ANSYS Inc,S5INFT,CN7T72-R
+V US Equity,Visa Inc,S5INFT,LC1BTF-R
+LRCX US Equity,Lam Research Corp,S5INFT,RT2ZSJ-R
+ADI US Equity,Analog Devices Inc,S5INFT,F17SJ1-R
+PAYX US Equity,Paychex Inc,S5INFT,FBB432-R
+PYPL US Equity,PayPal Holdings Inc,S5INFT,RQ9F5S-R
+QCOM US Equity,QUALCOMM Inc,S5INFT,FXH4XG-R
+TRMB US Equity,Trimble Inc,S5INFT,TBS2VP-R
+NLOK US Equity,NortonLifeLock Inc,S5INFT,KDHCQP-R
+KEYS US Equity,Keysight Technologies Inc,S5INFT,FXTG1M-R
+TER US Equity,Teradyne Inc,S5INFT,G4GB6B-R
+XLNX US Equity,Xilinx Inc,S5INFT,JMHSJV-R
+IPGP US Equity,IPG Photonics Corp,S5INFT,VR4SHN-R
+INTU US Equity,Intuit Inc,S5INFT,L6CPTK-R
+MCHP US Equity,Microchip Technology Inc,S5INFT,V5WMVF-R
+ZBRA US Equity,Zebra Technologies Corp,S5INFT,F82H8Q-R
+ENPH US Equity,Enphase Energy Inc,S5INFT,TXN5MP-R
+NXPI US Equity,NXP Semiconductors NV,S5INFT,FJ8GT6-R
+PAYC US Equity,Paycom Software Inc,S5INFT,V3Q5PM-R
+MU US Equity,Micron Technology Inc,S5INFT,CHR1NX-R
+MSI US Equity,Motorola Solutions Inc,S5INFT,MMRZQ5-R
+NTAP US Equity,NetApp Inc,S5INFT,JFW5HZ-R
+FTNT US Equity,Fortinet Inc,S5INFT,CL1QH9-R
+CTXS US Equity,Citrix Systems Inc,S5INFT,NW728X-R
+OXY US Equity,Occidental Petroleum Corp,S5ENRS,R998SY-R
+OKE US Equity,ONEOK Inc,S5ENRS,NGW97P-R
+CVX US Equity,Chevron Corp,S5ENRS,WPFS7S-R
+COP US Equity,ConocoPhillips,S5ENRS,TWXW2R-R
+NOV US Equity,NOV Inc,S5ENRS,VBL38Y-R
+XOM US Equity,Exxon Mobil Corp,S5ENRS,QG1HR7-R
+PXD US Equity,Pioneer Natural Resources Co,S5ENRS,TKKPJB-R
+VLO US Equity,Valero Energy Corp,S5ENRS,H2VPCM-R
+SLB US Equity,Schlumberger NV,S5ENRS,BJ2HRV-R
+DVN US Equity,Devon Energy Corp,S5ENRS,G8WDMZ-R
+HES US Equity,Hess Corp,S5ENRS,Q78D01-R
+MRO US Equity,Marathon Oil Corp,S5ENRS,QMQV1Q-R
+WMB US Equity,Williams Cos Inc/The,S5ENRS,QSDQCP-R
+COG US Equity,Cabot Oil & Gas Corp,S5ENRS,WM5BXP-R
+PSX US Equity,Phillips 66,S5ENRS,TTDQ0D-R
+HFC US Equity,HollyFrontier Corp,S5ENRS,KSWML9-R
+APA US Equity,APA Corp,S5ENRS,DMX4QY-R
+EOG US Equity,EOG Resources Inc,S5ENRS,QHBXV5-R
+KMI US Equity,Kinder Morgan Inc,S5ENRS,XM8P7T-R
+BKR US Equity,Baker Hughes Co,S5ENRS,NFMH78-R
+MPC US Equity,Marathon Petroleum Corp,S5ENRS,JRFYNM-R
+HAL US Equity,Halliburton Co,S5ENRS,GN6KCJ-R
+FANG US Equity,Diamondback Energy Inc,S5ENRS,H69CWS-R
+AXP US Equity,American Express Co,S5FINL,MVLTQZ-R
+JPM US Equity,JPMorgan Chase & Co,S5FINL,NNKD2Y-R
+PNC US Equity,PNC Financial Services Group Inc/The,S5FINL,PY50G1-R
+RE US Equity,Everest Re Group Ltd,S5FINL,GZKHGQ-R
+PGR US Equity,Progressive Corp/The,S5FINL,HVV49B-R
+BAC US Equity,Bank of America Corp,S5FINL,DTKZ1Y-R
+TRV US Equity,Travelers Cos Inc/The,S5FINL,FS319Q-R
+SCHW US Equity,Charles Schwab Corp/The,S5FINL,KM5Q58-R
+C US Equity,Citigroup Inc,S5FINL,RK3DL5-R
+AIG US Equity,American International Group Inc,S5FINL,VS59M7-R
+TFC US Equity,Truist Financial Corp,S5FINL,GX5LJC-R
+GS US Equity,Goldman Sachs Group Inc/The,S5FINL,JLJ0VZ-R
+MCO US Equity,Moody's Corp,S5FINL,MDYC2K-R
+AFL US Equity,Aflac Inc,S5FINL,XLY63V-R
+CBOE US Equity,Cboe Global Markets Inc,S5FINL,G3949H-R
+GL US Equity,Globe Life Inc,S5FINL,QJBZ19-R
+UNM US Equity,Unum Group,S5FINL,PKZ95N-R
+CME US Equity,CME Group Inc,S5FINL,GGPDYX-R
+BLK US Equity,BlackRock Inc,S5FINL,RPNJRM-R
+NDAQ US Equity,Nasdaq Inc,S5FINL,WFMVVR-R
+BK US Equity,Bank of New York Mellon Corp/The,S5FINL,DF9PT2-R
+MET US Equity,MetLife Inc,S5FINL,NPJW7K-R
+BRK/B US Equity,Berkshire Hathaway Inc,S5FINL,DBNXVB-R
+AMP US Equity,Ameriprise Financial Inc,S5FINL,SKZRLQ-R
+RJF US Equity,Raymond James Financial Inc,S5FINL,F1DNTM-R
+ICE US Equity,Intercontinental Exchange Inc,S5FINL,JKGP5M-R
+AJG US Equity,Arthur J Gallagher & Co,S5FINL,FJ1B1C-R
+CMA US Equity,Comerica Inc,S5FINL,RJ022Y-R
+CFG US Equity,Citizens Financial Group Inc,S5FINL,WDG05S-R
+AIZ US Equity,Assurant Inc,S5FINL,PTRY1F-R
+RF US Equity,Regions Financial Corp,S5FINL,FDS65G-R
+CINF US Equity,Cincinnati Financial Corp,S5FINL,PKY50L-R
+AON US Equity,Aon PLC,S5FINL,PY5NPN-R
+DFS US Equity,Discover Financial Services,S5FINL,PJNB5B-R
+MTB US Equity,M&T Bank Corp,S5FINL,X8LB4Q-R
+SIVB US Equity,SVB Financial Group,S5FINL,K8YRNT-R
+FITB US Equity,Fifth Third Bancorp,S5FINL,LRK013-R
+HBAN US Equity,Huntington Bancshares Inc/OH,S5FINL,G7VZQH-R
+MKTX US Equity,MarketAxess Holdings Inc,S5FINL,S4J8BX-R
+BEN US Equity,Franklin Resources Inc,S5FINL,HMVVTC-R
+NTRS US Equity,Northern Trust Corp,S5FINL,X1RJ5Y-R
+PBCT US Equity,People's United Financial Inc,S5FINL,B4L66G-R
+MSCI US Equity,MSCI Inc,S5FINL,MKJ8WW-R
+KEY US Equity,KeyCorp,S5FINL,MG2TQV-R
+SYF US Equity,Synchrony Financial,S5FINL,VQYTRP-R
+STT US Equity,State Street Corp,S5FINL,JQZ00G-R
+WLTW US Equity,Willis Towers Watson PLC,S5FINL,MBK7R0-R
+USB US Equity,US Bancorp,S5FINL,WYJT0C-R
+TROW US Equity,T Rowe Price Group Inc,S5FINL,VNRDMV-R
+FRC US Equity,First Republic Bank/CA,S5FINL,GYM5PB-R
+ZION US Equity,Zions Bancorp NA,S5FINL,CRP3ZV-R
+IVZ US Equity,Invesco Ltd,S5FINL,GS3RJ8-R
+MS US Equity,Morgan Stanley,S5FINL,CY644B-R
+WRB US Equity,W R Berkley Corp,S5FINL,QLRPKF-R
+CB US Equity,Chubb Ltd,S5FINL,JMHYW0-R
+ALL US Equity,Allstate Corp/The,S5FINL,BYJYYM-R
+PFG US Equity,Principal Financial Group Inc,S5FINL,DXZQS6-R
+LNC US Equity,Lincoln National Corp,S5FINL,LBWNRX-R
+L US Equity,Loews Corp,S5FINL,VBK29Z-R
+MMC US Equity,Marsh & McLennan Cos Inc,S5FINL,XHD46K-R
+PRU US Equity,Prudential Financial Inc,S5FINL,SHNVG7-R
+SPGI US Equity,S&P Global Inc,S5FINL,PRGQ6L-R
+COF US Equity,Capital One Financial Corp,S5FINL,LD0WYZ-R
+WFC US Equity,Wells Fargo & Co,S5FINL,VWF970-R
+HIG US Equity,Hartford Financial Services Group Inc/Th,S5FINL,P31DB7-R
+COO US Equity,Cooper Cos Inc/The,S5HLTH,T7H5H1-R
+DGX US Equity,Quest Diagnostics Inc,S5HLTH,KHX8Q2-R
+ALXN US Equity,Alexion Pharmaceuticals Inc,S5HLTH,TF1DZP-R
+RMD US Equity,ResMed Inc,S5HLTH,J2MW73-R
+JNJ US Equity,Johnson & Johnson,S5HLTH,KV0J41-R
+MTD US Equity,Mettler-Toledo International Inc,S5HLTH,PHPSQH-R
+MRK US Equity,Merck & Co Inc,S5HLTH,M79R1P-R
+PFE US Equity,Pfizer Inc,S5HLTH,VK7M4R-R
+IDXX US Equity,IDEXX Laboratories Inc,S5HLTH,NFMPMG-R
+IQV US Equity,IQVIA Holdings Inc,S5HLTH,XKBMRH-R
+ISRG US Equity,Intuitive Surgical Inc,S5HLTH,NBCKRK-R
+ALGN US Equity,Align Technology Inc,S5HLTH,DDZB0B-R
+CI US Equity,Cigna Corp,S5HLTH,LTN366-R
+INCY US Equity,Incyte Corp,S5HLTH,LD13C5-R
+ABT US Equity,Abbott Laboratories,S5HLTH,SHNDLT-R
+ILMN US Equity,Illumina Inc,S5HLTH,HXZ458-R
+TMO US Equity,Thermo Fisher Scientific Inc,S5HLTH,BK6JKQ-R
+A US Equity,Agilent Technologies Inc,S5HLTH,FWHC5K-R
+UNH US Equity,UnitedHealth Group Inc,S5HLTH,GGPVTB-R
+ANTM US Equity,Anthem Inc,S5HLTH,VT66G5-R
+BAX US Equity,Baxter International Inc,S5HLTH,TVTFDF-R
+BDX US Equity,Becton Dickinson and Co,S5HLTH,WFLMHL-R
+BSX US Equity,Boston Scientific Corp,S5HLTH,VR16P9-R
+BMY US Equity,Bristol-Myers Squibb Co,S5HLTH,L8SKLT-R
+EW US Equity,Edwards Lifesciences Corp,S5HLTH,QWV5DL-R
+AMGN US Equity,Amgen Inc,S5HLTH,CYB1M0-R
+HOLX US Equity,Hologic Inc,S5HLTH,BQR5YT-R
+ZBH US Equity,Zimmer Biomet Holdings Inc,S5HLTH,LJQYJ1-R
+ABBV US Equity,AbbVie Inc,S5HLTH,C4HBRT-R
+REGN US Equity,Regeneron Pharmaceuticals Inc,S5HLTH,S8ZQDV-R
+UHS US Equity,Universal Health Services Inc,S5HLTH,XMYTFJ-R
+SYK US Equity,Stryker Corp,S5HLTH,TY1WWM-R
+DHR US Equity,Danaher Corp,S5HLTH,GRMY8C-R
+CAH US Equity,Cardinal Health Inc,S5HLTH,FYT41X-R
+CERN US Equity,Cerner Corp,S5HLTH,M7439D-R
+PKI US Equity,PerkinElmer Inc,S5HLTH,Q3VTNZ-R
+WST US Equity,West Pharmaceutical Services Inc,S5HLTH,S8Z499-R
+HSIC US Equity,Henry Schein Inc,S5HLTH,RQXL78-R
+GILD US Equity,Gilead Sciences Inc,S5HLTH,JYWMBW-R
+HCA US Equity,HCA Healthcare Inc,S5HLTH,NKGZ7J-R
+BIIB US Equity,Biogen Inc,S5HLTH,HF5SX1-R
+VRTX US Equity,Vertex Pharmaceuticals Inc,S5HLTH,FFQNC3-R
+TFX US Equity,Teleflex Inc,S5HLTH,M0C1P8-R
+CRL US Equity,Charles River Laboratories International,S5HLTH,VVFNT8-R
+ABMD US Equity,ABIOMED Inc,S5HLTH,HN195G-R
+CTLT US Equity,Catalent Inc,S5HLTH,FVD6P4-R
+BIO US Equity,Bio-Rad Laboratories Inc,S5HLTH,X8L2PH-R
+HUM US Equity,Humana Inc,S5HLTH,PZ917X-R
+XRAY US Equity,DENTSPLY SIRONA Inc,S5HLTH,N4P9L4-R
+CNC US Equity,Centene Corp,S5HLTH,LTSNXH-R
+LLY US Equity,Eli Lilly & Co,S5HLTH,B19ST9-R
+VTRS US Equity,Viatris Inc,S5HLTH,LZBPWV-R
+PRGO US Equity,Perrigo Co PLC,S5HLTH,H53QZC-R
+MDT US Equity,Medtronic PLC,S5HLTH,J89J6Y-R
+CVS US Equity,CVS Health Corp,S5HLTH,JTC04X-R
+MCK US Equity,McKesson Corp,S5HLTH,NYJHHY-R
+ABC US Equity,AmerisourceBergen Corp,S5HLTH,BK2FRW-R
+LH US Equity,Laboratory Corp of America Holdings,S5HLTH,C7M7DL-R
+WAT US Equity,Waters Corp,S5HLTH,WL1GCY-R
+STE US Equity,STERIS PLC,S5HLTH,SPGL7X-R
+DXCM US Equity,Dexcom Inc,S5HLTH,BNJBN6-R
+DVA US Equity,DaVita Inc,S5HLTH,FQYW7Q-R
+ZTS US Equity,Zoetis Inc,S5HLTH,TW6KKV-R
+TSCO US Equity,Tractor Supply Co,S5COND,BRWKF0-R
+PHM US Equity,PulteGroup Inc,S5COND,F1DFCD-R
+AMZN US Equity,Amazon.com Inc,S5COND,MCNYYL-R
+HD US Equity,Home Depot Inc/The,S5COND,PD98GG-R
+RL US Equity,Ralph Lauren Corp,S5COND,RJ0FT9-R
+MCD US Equity,McDonald's Corp,S5COND,VTBLV9-R
+YUM US Equity,Yum! Brands Inc,S5COND,VCNXSP-R
+ERI US Equity,Caesars Entertainment Inc,S5COND,J1JDGR-R
+EBAY US Equity,eBay Inc,S5COND,W6SXMV-R
+HBI US Equity,Hanesbrands Inc,S5COND,H0P6P9-R
+AAP US Equity,Advance Auto Parts Inc,S5COND,HP58X9-R
+BKNG US Equity,Booking Holdings Inc,S5COND,LC0H1H-R
+LKQ US Equity,LKQ Corp,S5COND,JZWRR3-R
+TJX US Equity,TJX Cos Inc/The,S5COND,S8ZPBT-R
+DPZ US Equity,Domino's Pizza Inc,S5COND,F05QG0-R
+AZO US Equity,AutoZone Inc,S5COND,JDQ0K1-R
+GRMN US Equity,Garmin Ltd,S5COND,FPPSQ1-R
+VFC US Equity,VF Corp,S5COND,NV79M1-R
+POOL US Equity,Pool Corp,S5COND,B6V0BZ-R
+WHR US Equity,Whirlpool Corp,S5COND,DH79H0-R
+TPR US Equity,Tapestry Inc,S5COND,LN3P8B-R
+BBY US Equity,Best Buy Co Inc,S5COND,WPKF66-R
+NVR US Equity,NVR Inc,S5COND,D0LDT1-R
+LVS US Equity,Las Vegas Sands Corp,S5COND,VBN9H0-R
+PVH US Equity,PVH Corp,S5COND,XKPH9J-R
+CCL US Equity,Carnival Corp,S5COND,HNZVK6-R
+HLT US Equity,Hilton Worldwide Holdings Inc,S5COND,MFQVZQ-R
+KMX US Equity,CarMax Inc,S5COND,QCYLZB-R
+CMG US Equity,Chipotle Mexican Grill Inc,S5COND,KFQHFG-R
+WYNN US Equity,Wynn Resorts Ltd,S5COND,JCPT0R-R
+TGT US Equity,Target Corp,S5COND,J994MP-R
+EXPE US Equity,Expedia Group Inc,S5COND,FCK6QT-R
+NCLH US Equity,Norwegian Cruise Line Holdings Ltd,S5COND,W0731Q-R
+DHI US Equity,DR Horton Inc,S5COND,BYNP13-R
+MGM US Equity,MGM Resorts International,S5COND,M79B89-R
+GM US Equity,General Motors Co,S5COND,T0SQZH-R
+ULTA US Equity,Ulta Beauty Inc,S5COND,GM3DBL-R
+DG US Equity,Dollar General Corp,S5COND,BDQDB8-R
+NWL US Equity,Newell Brands Inc,S5COND,GFJGD5-R
+UAA US Equity,Under Armour Inc,S5COND,N2GNNQ-R
+HAS US Equity,Hasbro Inc,S5COND,H7DGWR-R
+F US Equity,Ford Motor Co,S5COND,XLV24X-R
+MHK US Equity,Mohawk Industries Inc,S5COND,RGZN5G-R
+GPS US Equity,Gap Inc/The,S5COND,R5RD6T-R
+GPC US Equity,Genuine Parts Co,S5COND,SJS2RC-R
+MAR US Equity,Marriott International Inc/MD,S5COND,K38HHD-R
+ROST US Equity,Ross Stores Inc,S5COND,FJ4NDH-R
+ETSY US Equity,Etsy Inc,S5COND,PVBYXV-R
+SBUX US Equity,Starbucks Corp,S5COND,TWTDGH-R
+LEG US Equity,Leggett & Platt Inc,S5COND,QZ3ZG1-R
+ORLY US Equity,O'Reilly Automotive Inc,S5COND,P36M94-R
+LEN US Equity,Lennar Corp,S5COND,FH1NKL-R
+TSLA US Equity,Tesla Inc,S5COND,Q2YN1N-R
+LB US Equity,L Brands Inc,S5COND,FBCHQC-R
+BWA US Equity,BorgWarner Inc,S5COND,HF1P15-R
+LOW US Equity,Lowe's Cos Inc,S5COND,CHKL7S-R
+UA US Equity,Under Armour Inc,S5COND,VBCQMG-R
+APTV US Equity,Aptiv PLC,S5COND,MZJHY9-R
+DLTR US Equity,Dollar Tree Inc,S5COND,MR0PSP-R
+DRI US Equity,Darden Restaurants Inc,S5COND,GRS9LG-R
+NKE US Equity,NIKE Inc,S5COND,VNMTTH-R
+RCL US Equity,Royal Caribbean Cruises Ltd,S5COND,XLT03X-R
+PENN US Equity,Penn National Gaming Inc,S5COND,LX2WRB-R
+BA US Equity,Boeing Co/The,S5INDU,RXHN9P-R
+PH US Equity,Parker-Hannifin Corp,S5INDU,VDT85V-R
+CAT US Equity,Caterpillar Inc,S5INDU,PY5KHK-R
+ROK US Equity,Rockwell Automation Inc,S5INDU,R4M2WP-R
+GE US Equity,General Electric Co,S5INDU,CTYNJ1-R
+CPRT US Equity,Copart Inc,S5INDU,DJBQ39-R
+GNRC US Equity,Generac Holdings Inc,S5INDU,XC2LNC-R
+TDY US Equity,Teledyne Technologies Inc,S5INDU,MTGSY3-R
+MMM US Equity,3M Co,S5INDU,FT8DNV-R
+CHRW US Equity,CH Robinson Worldwide Inc,S5INDU,FMDS8D-R
+RHI US Equity,Robert Half International Inc,S5INDU,D3VZJC-R
+RTX US Equity,Raytheon Technologies Corp,S5INDU,MKC1SV-R
+PWR US Equity,Quanta Services Inc,S5INDU,S7P87W-R
+SNA US Equity,Snap-on Inc,S5INDU,DXW84Y-R
+LUV US Equity,Southwest Airlines Co,S5INDU,BFSY5M-R
+RSG US Equity,Republic Services Inc,S5INDU,NPK7YX-R
+SWK US Equity,Stanley Black & Decker Inc,S5INDU,LKPWM4-R
+TXT US Equity,Textron Inc,S5INDU,GN6RRQ-R
+JCI US Equity,Johnson Controls International plc,S5INDU,VT4SWZ-R
+IEX US Equity,IDEX Corp,S5INDU,KFJFWS-R
+UNP US Equity,Union Pacific Corp,S5INDU,M1FW60-R
+CARR US Equity,Carrier Global Corp,S5INDU,RYTJNF-R
+OTIS US Equity,Otis Worldwide Corp,S5INDU,RCNCKX-R
+WAB US Equity,Westinghouse Air Brake Technologies Corp,S5INDU,XF43NV-R
+ALLE US Equity,Allegion plc,S5INDU,RJVBBR-R
+IR US Equity,Ingersoll Rand Inc,S5INDU,C0YGQ6-R
+KSU US Equity,Kansas City Southern,S5INDU,DG6SCF-R
+ODFL US Equity,Old Dominion Freight Line Inc,S5INDU,T6CPQP-R
+CSX US Equity,CSX Corp,S5INDU,LTP0Z2-R
+AOS US Equity,A O Smith Corp,S5INDU,VFY8ZQ-R
+INFO US Equity,IHS Markit Ltd,S5INDU,JYRG0L-R
+TDG US Equity,TransDigm Group Inc,S5INDU,Q8G78M-R
+CTAS US Equity,Cintas Corp,S5INDU,F07Q7W-R
+ROL US Equity,Rollins Inc,S5INDU,WRVHRX-R
+PCAR US Equity,PACCAR Inc,S5INDU,J70N5J-R
+ALK US Equity,Alaska Air Group Inc,S5INDU,KDJSF0-R
+CMI US Equity,Cummins Inc,S5INDU,CPCW2Z-R
+DE US Equity,Deere & Co,S5INDU,J70ZTV-R
+DOV US Equity,Dover Corp,S5INDU,V75BKP-R
+AAL US Equity,American Airlines Group Inc,S5INDU,CSFJSZ-R
+ETN US Equity,Eaton Corp PLC,S5INDU,SZJL5M-R
+LDOS US Equity,Leidos Holdings Inc,S5INDU,L7LP86-R
+EMR US Equity,Emerson Electric Co,S5INDU,DG27Q5-R
+EXPD US Equity,Expeditors International of Washington I,S5INDU,PVWPB1-R
+FAST US Equity,Fastenal Co,S5INDU,FS32CR-R
+EFX US Equity,Equifax Inc,S5INDU,PN37ZK-R
+FDX US Equity,FedEx Corp,S5INDU,MH7TCM-R
+XYL US Equity,Xylem Inc/NY,S5INDU,RSQN90-R
+HWM US Equity,Howmet Aerospace Inc,S5INDU,L32LM8-R
+JBHT US Equity,JB Hunt Transport Services Inc,S5INDU,CHK9QJ-R
+PNR US Equity,Pentair PLC,S5INDU,CRHPMR-R
+GD US Equity,General Dynamics Corp,S5INDU,LTP334-R
+FTV US Equity,Fortive Corp,S5INDU,P1P032-R
+GWW US Equity,WW Grainger Inc,S5INDU,DRBC9M-R
+ROP US Equity,Roper Technologies Inc,S5INDU,FQZF97-R
+URI US Equity,United Rentals Inc,S5INDU,W0Z4W6-R
+LHX US Equity,L3Harris Technologies Inc,S5INDU,KYCY91-R
+WM US Equity,Waste Management Inc,S5INDU,TZ2TSL-R
+ITW US Equity,Illinois Tool Works Inc,S5INDU,RRXTTL-R
+TT US Equity,Trane Technologies PLC,S5INDU,C5GXYC-R
+NLSN US Equity,Nielsen Holdings PLC,S5INDU,FR4YZK-R
+FBHS US Equity,Fortune Brands Home & Security Inc,S5INDU,BWZ93Y-R
+J US Equity,Jacobs Engineering Group Inc,S5INDU,JKDM7P-R
+HII US Equity,Huntington Ingalls Industries Inc,S5INDU,HJXXH4-R
+HON US Equity,Honeywell International Inc,S5INDU,WGLQTS-R
+MAS US Equity,Masco Corp,S5INDU,HSF35X-R
+UPS US Equity,United Parcel Service Inc,S5INDU,KPFMHW-R
+AME US Equity,AMETEK Inc,S5INDU,TMTGLT-R
+DAL US Equity,Delta Air Lines Inc,S5INDU,DGBZCC-R
+LMT US Equity,Lockheed Martin Corp,S5INDU,KC6WDM-R
+VRSK US Equity,Verisk Analytics Inc,S5INDU,M67VFY-R
+UAL US Equity,United Airlines Holdings Inc,S5INDU,QKJS7V-R
+NSC US Equity,Norfolk Southern Corp,S5INDU,KDCD3Y-R
+NOC US Equity,Northrop Grumman Corp,S5INDU,LHKN8Z-R
+EL US Equity,Estee Lauder Cos Inc/The,S5CONS,KFMMZS-R
+MDLZ US Equity,Mondelez International Inc,S5CONS,HHB3C8-R
+KO US Equity,Coca-Cola Co/The,S5CONS,CYB6Y5-R
+PG US Equity,Procter & Gamble Co/The,S5CONS,RZXDWV-R
+WMT US Equity,Walmart Inc,S5CONS,CSMTMQ-R
+SJM US Equity,J M Smucker Co/The,S5CONS,FPTJVK-R
+MO US Equity,Altria Group Inc,S5CONS,PN6Y00-R
+SYY US Equity,Sysco Corp,S5CONS,T2TNWF-R
+KHC US Equity,Kraft Heinz Co/The,S5CONS,Q4YP8S-R
+ADM US Equity,Archer-Daniels-Midland Co,S5CONS,MQ119X-R
+PM US Equity,Philip Morris International Inc,S5CONS,KRQTDT-R
+WBA US Equity,Walgreens Boots Alliance Inc,S5CONS,SDDH43-R
+BF/B US Equity,Brown-Forman Corp,S5CONS,LX237L-R
+CPB US Equity,Campbell Soup Co,S5CONS,KZKK3D-R
+TAP US Equity,Molson Coors Beverage Co,S5CONS,NCL5GV-R
+CLX US Equity,Clorox Co/The,S5CONS,CJVKH9-R
+MKC US Equity,McCormick & Co Inc/MD,S5CONS,NW8BQ3-R
+CL US Equity,Colgate-Palmolive Co,S5CONS,H1PMLS-R
+CAG US Equity,Conagra Brands Inc,S5CONS,DJC60R-R
+COST US Equity,Costco Wholesale Corp,S5CONS,BL5KVX-R
+TSN US Equity,Tyson Foods Inc,S5CONS,BM9QXX-R
+CHD US Equity,Church & Dwight Co Inc,S5CONS,SHRZF5-R
+GIS US Equity,General Mills Inc,S5CONS,R5XGXL-R
+HSY US Equity,Hershey Co/The,S5CONS,MJCGG4-R
+PEP US Equity,PepsiCo Inc,S5CONS,PPCTFP-R
+HRL US Equity,Hormel Foods Corp,S5CONS,CYBC69-R
+STZ US Equity,Constellation Brands Inc,S5CONS,RK3HS8-R
+K US Equity,Kellogg Co,S5CONS,JPTF52-R
+KMB US Equity,Kimberly-Clark Corp,S5CONS,BQWWY7-R
+KR US Equity,Kroger Co/The,S5CONS,R2J99W-R
+MNST US Equity,Monster Beverage Corp,S5CONS,NNFR4J-R
+LW US Equity,Lamb Weston Holdings Inc,S5CONS,W8YRN3-R
+WRK US Equity,Westrock Co,S5MATR,HP13ZD-R
+ALB US Equity,Albemarle Corp,S5MATR,DMRWLY-R
+PPG US Equity,PPG Industries Inc,S5MATR,HSFL3C-R
+SHW US Equity,Sherwin-Williams Co/The,S5MATR,GC9695-R
+SEE US Equity,Sealed Air Corp,S5MATR,RXG6KB-R
+IP US Equity,International Paper Co,S5MATR,GZF20K-R
+APD US Equity,Air Products and Chemicals Inc,S5MATR,BV8JHF-R
+AVY US Equity,Avery Dennison Corp,S5MATR,KDJL0T-R
+BLL US Equity,Ball Corp,S5MATR,VFT0VQ-R
+VMC US Equity,Vulcan Materials Co,S5MATR,MQ0Y3T-R
+LIN US Equity,Linde PLC,S5MATR,LQ766T-R
+PKG US Equity,Packaging Corp of America,S5MATR,FZRL7K-R
+LYB US Equity,LyondellBasell Industries NV,S5MATR,GRQMJ0-R
+MOS US Equity,Mosaic Co/The,S5MATR,VWGLQ7-R
+DOW US Equity,Dow Inc,S5MATR,C7C9TP-R
+CF US Equity,CF Industries Holdings Inc,S5MATR,D1P43P-R
+ECL US Equity,Ecolab Inc,S5MATR,FJ4J4C-R
+FMC US Equity,FMC Corp,S5MATR,BCD4JF-R
+FCX US Equity,Freeport-McMoRan Inc,S5MATR,B3DVXC-R
+CE US Equity,Celanese Corp,S5MATR,QP3LLV-R
+AMCR US Equity,Amcor PLC,S5MATR,HQ2MHF-R
+IFF US Equity,International Flavors & Fragrances Inc,S5MATR,NV7K28-R
+EMN US Equity,Eastman Chemical Co,S5MATR,GQGQ5C-R
+CTVA US Equity,Corteva Inc,S5MATR,NHV4Q7-R
+MLM US Equity,Martin Marietta Materials Inc,S5MATR,V6ZQWF-R
+NEM US Equity,Newmont Corp,S5MATR,CGGG4R-R
+DD US Equity,DuPont de Nemours Inc,S5MATR,VQXR21-R
+NUE US Equity,Nucor Corp,S5MATR,HKLJPC-R
+PPL US Equity,PPL Corp,S5UTIL,RPTY1P-R
+PNW US Equity,Pinnacle West Capital Corp,S5UTIL,C8XJ7D-R
+ATO US Equity,Atmos Energy Corp,S5UTIL,FT7VMB-R
+PEG US Equity,Public Service Enterprise Group Inc,S5UTIL,KYJFW8-R
+FE US Equity,FirstEnergy Corp,S5UTIL,BV4P4T-R
+EIX US Equity,Edison International,S5UTIL,NZMV05-R
+AEE US Equity,Ameren Corp,S5UTIL,GRSDSK-R
+SO US Equity,Southern Co/The,S5UTIL,XGFDHN-R
+SRE US Equity,Sempra Energy,S5UTIL,WQK5W2-R
+XEL US Equity,Xcel Energy Inc,S5UTIL,KB791X-R
+DTE US Equity,DTE Energy Co,S5UTIL,W6N4JC-R
+EVRG US Equity,Evergy Inc,S5UTIL,B83YJG-R
+WEC US Equity,WEC Energy Group Inc,S5UTIL,RFPMVX-R
+AES US Equity,AES Corp/The,S5UTIL,LY653H-R
+AEP US Equity,American Electric Power Co Inc,S5UTIL,D502G9-R
+CMS US Equity,CMS Energy Corp,S5UTIL,D68983-R
+LNT US Equity,Alliant Energy Corp,S5UTIL,KK1SFD-R
+ED US Equity,Consolidated Edison Inc,S5UTIL,X0N4MP-R
+NRG US Equity,NRG Energy Inc,S5UTIL,RVC5J9-R
+D US Equity,Dominion Energy Inc,S5UTIL,NXHLP0-R
+AWK US Equity,American Water Works Co Inc,S5UTIL,CFG1CD-R
+DUK US Equity,Duke Energy Corp,S5UTIL,BPRHF0-R
+ETR US Equity,Entergy Corp,S5UTIL,RK8Z6D-R
+EXC US Equity,Exelon Corp,S5UTIL,NPK3PS-R
+NEE US Equity,NextEra Energy Inc,S5UTIL,KB3YPS-R
+CNP US Equity,CenterPoint Energy Inc,S5UTIL,FV824M-R
+NI US Equity,NiSource Inc,S5UTIL,RYRC40-R
+ES US Equity,Eversource Energy,S5UTIL,MVKZ35-R
+OMC US Equity,Omnicom Group Inc,S5TELS,D8D820-R
+TWTR US Equity,Twitter Inc,S5TELS,S9NVWV-R
+VZ US Equity,Verizon Communications Inc,S5TELS,FT8FQW-R
+DIS US Equity,Walt Disney Co/The,S5TELS,MPXJMM-R
+DISH US Equity,DISH Network Corp,S5TELS,TTHJD1-R
+GOOG US Equity,Alphabet Inc,S5TELS,WFJYTJ-R
+T US Equity,AT&T Inc,S5TELS,VLHKF9-R
+CHTR US Equity,Charter Communications Inc,S5TELS,F1B8CH-R
+GOOGL US Equity,Alphabet Inc,S5TELS,HTM0LK-R
+NFLX US Equity,Netflix Inc,S5TELS,C4C0BL-R
+LUMN US Equity,Lumen Technologies Inc,S5TELS,K24Q4R-R
+DISCK US Equity,Discovery Inc,S5TELS,KYKCS8-R
+CMCSA US Equity,Comcast Corp,S5TELS,JMNLQC-R
+ATVI US Equity,Activision Blizzard Inc,S5TELS,KB2QBM-R
+DISCA US Equity,Discovery Inc,S5TELS,B71DJZ-R
+VIAC US Equity,ViacomCBS Inc,S5TELS,K6RW63-R
+EA US Equity,Electronic Arts Inc,S5TELS,TNZ1G6-R
+FB US Equity,Facebook Inc,S5TELS,QLGSL2-R
+TTWO US Equity,Take-Two Interactive Software Inc,S5TELS,MYW502-R
+NWS US Equity,News Corp,S5TELS,FQJDL3-R
+IPG US Equity,Interpublic Group of Cos Inc/The,S5TELS,PVW48J-R
+LYV US Equity,Live Nation Entertainment Inc,S5TELS,MLQ41B-R
+TMUS US Equity,T-Mobile US Inc,S5TELS,W5QQ9P-R
+FOXA US Equity,Fox Corp,S5TELS,LPRN3T-R
+FOX US Equity,Fox Corp,S5TELS,M8XT6B-R
+NWSA US Equity,News Corp,S5TELS,KTPK4Q-R
+JPM US Equity,JPMorgan Chase & Co,S5BANKX,NNKD2Y-R
+PNC US Equity,PNC Financial Services Group Inc/The,S5BANKX,PY50G1-R
+BAC US Equity,Bank of America Corp,S5BANKX,DTKZ1Y-R
+C US Equity,Citigroup Inc,S5BANKX,RK3DL5-R
+TFC US Equity,Truist Financial Corp,S5BANKX,GX5LJC-R
+CMA US Equity,Comerica Inc,S5BANKX,RJ022Y-R
+CFG US Equity,Citizens Financial Group Inc,S5BANKX,WDG05S-R
+RF US Equity,Regions Financial Corp,S5BANKX,FDS65G-R
+SIVB US Equity,SVB Financial Group,S5BANKX,K8YRNT-R
+MTB US Equity,M&T Bank Corp,S5BANKX,X8LB4Q-R
+FITB US Equity,Fifth Third Bancorp,S5BANKX,LRK013-R
+HBAN US Equity,Huntington Bancshares Inc/OH,S5BANKX,G7VZQH-R
+PBCT US Equity,People's United Financial Inc,S5BANKX,B4L66G-R
+KEY US Equity,KeyCorp,S5BANKX,MG2TQV-R
+USB US Equity,US Bancorp,S5BANKX,WYJT0C-R
+FRC US Equity,First Republic Bank/CA,S5BANKX,GYM5PB-R
+ZION US Equity,Zions Bancorp NA,S5BANKX,CRP3ZV-R
+WFC US Equity,Wells Fargo & Co,S5BANKX,VWF970-R
+IRM US Equity,Iron Mountain Inc,S5RLST,LVYTWF-R
+MAA US Equity,Mid-America Apartment Communities Inc,S5RLST,JWH12W-R
+AMT US Equity,American Tower Corp,S5RLST,DTKPJP-R
+BXP US Equity,Boston Properties Inc,S5RLST,MS9FKZ-R
+PLD US Equity,Prologis Inc,S5RLST,B97MP0-R
+ESS US Equity,Essex Property Trust Inc,S5RLST,X9Q3HC-R
+CCI US Equity,Crown Castle International Corp,S5RLST,C8WF4C-R
+PSA US Equity,Public Storage,S5RLST,C46DK8-R
+O US Equity,Realty Income Corp,S5RLST,B6ZXQL-R
+VTR US Equity,Ventas Inc,S5RLST,THB4X2-R
+VNO US Equity,Vornado Realty Trust,S5RLST,RDKCLT-R
+WY US Equity,Weyerhaeuser Co,S5RLST,DLSMXK-R
+EQIX US Equity,Equinix Inc,S5RLST,V9977J-R
+DLR US Equity,Digital Realty Trust Inc,S5RLST,RBJXH6-R
+CBRE US Equity,CBRE Group Inc,S5RLST,S26JJL-R
+EXR US Equity,Extra Space Storage Inc,S5RLST,XD67LR-R
+DRE US Equity,Duke Realty Corp,S5RLST,DH7WLK-R
+FRT US Equity,Federal Realty Investment Trust,S5RLST,FDS1XB-R
+WELL US Equity,Welltower Inc,S5RLST,B6ZP8C-R
+SBAC US Equity,SBA Communications Corp,S5RLST,XKT8J2-R
+PEAK US Equity,Healthpeak Properties Inc,S5RLST,T3YH93-R
+KIM US Equity,Kimco Realty Corp,S5RLST,VDPDV7-R
+EQR US Equity,Equity Residential,S5RLST,QJ9QP4-R
+UDR US Equity,UDR Inc,S5RLST,KFP2R4-R
+SPG US Equity,Simon Property Group Inc,S5RLST,M1H0C2-R
+AVB US Equity,AvalonBay Communities Inc,S5RLST,KMBRT0-R
+REG US Equity,Regency Centers Corp,S5RLST,BZPFLX-R
+HST US Equity,Host Hotels & Resorts Inc,S5RLST,HJG212-R
+ARE US Equity,Alexandria Real Estate Equities Inc,S5RLST,NT37R4-R
+MXIM US Equity,Maxim Integrated Products Inc,S5SSEQX,F72PJT-R
+QRVO US Equity,Qorvo Inc,S5SSEQX,M8867B-R
+INTC US Equity,Intel Corp,S5SSEQX,HZ6Z7Q-R
+NVDA US Equity,NVIDIA Corp,S5SSEQX,K7TPSX-R
+TXN US Equity,Texas Instruments Inc,S5SSEQX,HQ87P5-R
+AMD US Equity,Advanced Micro Devices Inc,S5SSEQX,RT66YK-R
+KLAC US Equity,KLA Corp,S5SSEQX,CZBYFY-R
+AVGO US Equity,Broadcom Inc,S5SSEQX,B81TLL-R
+MPWR US Equity,Monolithic Power Systems Inc,S5SSEQX,VZYGFG-R
+SWKS US Equity,Skyworks Solutions Inc,S5SSEQX,DXVDJ4-R
+AMAT US Equity,Applied Materials Inc,S5SSEQX,M0H6M5-R
+LRCX US Equity,Lam Research Corp,S5SSEQX,RT2ZSJ-R
+ADI US Equity,Analog Devices Inc,S5SSEQX,F17SJ1-R
+QCOM US Equity,QUALCOMM Inc,S5SSEQX,FXH4XG-R
+TER US Equity,Teradyne Inc,S5SSEQX,G4GB6B-R
+XLNX US Equity,Xilinx Inc,S5SSEQX,JMHSJV-R
+MCHP US Equity,Microchip Technology Inc,S5SSEQX,V5WMVF-R
+ENPH US Equity,Enphase Energy Inc,S5SSEQX,TXN5MP-R
+NXPI US Equity,NXP Semiconductors NV,S5SSEQX,FJ8GT6-R
+MU US Equity,Micron Technology Inc,S5SSEQX,CHR1NX-R
+IBM US Equity,International Business Machines Corp,S5SFTW,SJY281-R
+WU US Equity,Western Union Co/The,S5SFTW,J9F59G-R
+ACN US Equity,Accenture PLC,S5SFTW,BWDZ2P-R
+VRSN US Equity,VeriSign Inc,S5SFTW,NB76FG-R
+PTC US Equity,PTC Inc,S5SFTW,BYP0PF-R
+MSFT US Equity,Microsoft Corp,S5SFTW,P8R3C2-R
+GPN US Equity,Global Payments Inc,S5SFTW,KK1YRK-R
+CTSH US Equity,Cognizant Technology Solutions Corp,S5SFTW,NT38T5-R
+DXC US Equity,DXC Technology Co,S5SFTW,B4PGFJ-R
+BR US Equity,Broadridge Financial Solutions Inc,S5SFTW,MXZ7RW-R
+AKAM US Equity,Akamai Technologies Inc,S5SFTW,PX1NYT-R
+ADP US Equity,Automatic Data Processing Inc,S5SFTW,TY202Q-R
+IT US Equity,Gartner Inc,S5SFTW,T67DJN-R
+CRM US Equity,salesforce.com Inc,S5SFTW,GZMRSV-R
+NOW US Equity,ServiceNow Inc,S5SFTW,MJ0XB7-R
+FLT US Equity,FleetCor Technologies Inc,S5SFTW,WGXV7D-R
+ADBE US Equity,Adobe Inc,S5SFTW,DJC2TN-R
+ADSK US Equity,Autodesk Inc,S5SFTW,JXMLY8-R
+MA US Equity,Mastercard Inc,S5SFTW,LQBB5R-R
+FIS US Equity,Fidelity National Information Services I,S5SFTW,RGTY61-R
+ORCL US Equity,Oracle Corp,S5SFTW,HQ4DBK-R
+CDNS US Equity,Cadence Design Systems Inc,S5SFTW,X1SCTR-R
+TYL US Equity,Tyler Technologies Inc,S5SFTW,RT7HCR-R
+JKHY US Equity,Jack Henry & Associates Inc,S5SFTW,KW432H-R
+SNPS US Equity,Synopsys Inc,S5SFTW,CPCV0Y-R
+FISV US Equity,Fiserv Inc,S5SFTW,QLQKDC-R
+ANSS US Equity,ANSYS Inc,S5SFTW,CN7T72-R
+V US Equity,Visa Inc,S5SFTW,LC1BTF-R
+PAYX US Equity,Paychex Inc,S5SFTW,FBB432-R
+PYPL US Equity,PayPal Holdings Inc,S5SFTW,RQ9F5S-R
+NLOK US Equity,NortonLifeLock Inc,S5SFTW,KDHCQP-R
+INTU US Equity,Intuit Inc,S5SFTW,L6CPTK-R
+PAYC US Equity,Paycom Software Inc,S5SFTW,V3Q5PM-R
+FTNT US Equity,Fortinet Inc,S5SFTW,CL1QH9-R
+CTXS US Equity,Citrix Systems Inc,S5SFTW,NW728X-R
+PHM US Equity,PulteGroup Inc,S5HOME,F1DFCD-R
+NVR US Equity,NVR Inc,S5HOME,D0LDT1-R
+DHI US Equity,DR Horton Inc,S5HOME,BYNP13-R
+LEN US Equity,Lennar Corp,S5HOME,FH1NKL-R
+GM US Equity,General Motors Co,S5AUCO,T0SQZH-R
+F US Equity,Ford Motor Co,S5AUCO,XLV24X-R
+TSLA US Equity,Tesla Inc,S5AUCO,Q2YN1N-R
+BWA US Equity,BorgWarner Inc,S5AUCO,HF1P15-R
+APTV US Equity,Aptiv PLC,S5AUCO,MZJHY9-R
+CDW US Equity,CDW Corp/DE,S5TECH,RTXD8D-R
+HPQ US Equity,HP Inc,S5TECH,MS57L1-R
+APH US Equity,Amphenol Corp,S5TECH,V2H5QG-R
+CSCO US Equity,Cisco Systems Inc/Delaware,S5TECH,GFJC62-R
+STX US Equity,Seagate Technology Holdings PLC,S5TECH,KXDMGL-R
+FFIV US Equity,F5 Networks Inc,S5TECH,JJ39BV-R
+WDC US Equity,Western Digital Corp,S5TECH,W00MKH-R
+JNPR US Equity,Juniper Networks Inc,S5TECH,X59HZ5-R
+AAPL US Equity,Apple Inc,S5TECH,MH33D6-R
+ANET US Equity,Arista Networks Inc,S5TECH,TNZ6CZ-R
+GLW US Equity,Corning Inc,S5TECH,K24537-R
+HPE US Equity,Hewlett Packard Enterprise Co,S5TECH,F9VYPD-R
+TEL US Equity,TE Connectivity Ltd,S5TECH,T1N9NF-R
+TRMB US Equity,Trimble Inc,S5TECH,TBS2VP-R
+KEYS US Equity,Keysight Technologies Inc,S5TECH,FXTG1M-R
+IPGP US Equity,IPG Photonics Corp,S5TECH,VR4SHN-R
+ZBRA US Equity,Zebra Technologies Corp,S5TECH,F82H8Q-R
+MSI US Equity,Motorola Solutions Inc,S5TECH,MMRZQ5-R
+NTAP US Equity,NetApp Inc,S5TECH,JFW5HZ-R
+JNJ US Equity,Johnson & Johnson,S5PHARX,KV0J41-R
+MRK US Equity,Merck & Co Inc,S5PHARX,M79R1P-R
+PFE US Equity,Pfizer Inc,S5PHARX,VK7M4R-R
+BMY US Equity,Bristol-Myers Squibb Co,S5PHARX,L8SKLT-R
+CTLT US Equity,Catalent Inc,S5PHARX,FVD6P4-R
+LLY US Equity,Eli Lilly & Co,S5PHARX,B19ST9-R
+VTRS US Equity,Viatris Inc,S5PHARX,LZBPWV-R
+PRGO US Equity,Perrigo Co PLC,S5PHARX,H53QZC-R
+ZTS US Equity,Zoetis Inc,S5PHARX,TW6KKV-R
+LUV US Equity,Southwest Airlines Co,S5AIRLX,BFSY5M-R
+ALK US Equity,Alaska Air Group Inc,S5AIRLX,KDJSF0-R
+AAL US Equity,American Airlines Group Inc,S5AIRLX,CSFJSZ-R
+DAL US Equity,Delta Air Lines Inc,S5AIRLX,DGBZCC-R
+UAL US Equity,United Airlines Holdings Inc,S5AIRLX,QKJS7V-R
+COP US Equity,ConocoPhillips,S5OILP,TWXW2R-R
+PXD US Equity,Pioneer Natural Resources Co,S5OILP,TKKPJB-R
+DVN US Equity,Devon Energy Corp,S5OILP,G8WDMZ-R
+HES US Equity,Hess Corp,S5OILP,Q78D01-R
+MRO US Equity,Marathon Oil Corp,S5OILP,QMQV1Q-R
+COG US Equity,Cabot Oil & Gas Corp,S5OILP,WM5BXP-R
+APA US Equity,APA Corp,S5OILP,DMX4QY-R
+EOG US Equity,EOG Resources Inc,S5OILP,QHBXV5-R
+FANG US Equity,Diamondback Energy Inc,S5OILP,H69CWS-R
+PTC US Equity,PTC Inc,S5SOFT,BYP0PF-R
+MSFT US Equity,Microsoft Corp,S5SOFT,P8R3C2-R
+NOW US Equity,ServiceNow Inc,S5SOFT,MJ0XB7-R
+CRM US Equity,salesforce.com Inc,S5SOFT,GZMRSV-R
+ADBE US Equity,Adobe Inc,S5SOFT,DJC2TN-R
+ADSK US Equity,Autodesk Inc,S5SOFT,JXMLY8-R
+ORCL US Equity,Oracle Corp,S5SOFT,HQ4DBK-R
+CDNS US Equity,Cadence Design Systems Inc,S5SOFT,X1SCTR-R
+TYL US Equity,Tyler Technologies Inc,S5SOFT,RT7HCR-R
+SNPS US Equity,Synopsys Inc,S5SOFT,CPCV0Y-R
+ANSS US Equity,ANSYS Inc,S5SOFT,CN7T72-R
+NLOK US Equity,NortonLifeLock Inc,S5SOFT,KDHCQP-R
+INTU US Equity,Intuit Inc,S5SOFT,L6CPTK-R
+PAYC US Equity,Paycom Software Inc,S5SOFT,V3Q5PM-R
+FTNT US Equity,Fortinet Inc,S5SOFT,CL1QH9-R
+CTXS US Equity,Citrix Systems Inc,S5SOFT,NW728X-R
+OXY US Equity,Occidental Petroleum Corp,S5ENRSX,R998SY-R
+OKE US Equity,ONEOK Inc,S5ENRSX,NGW97P-R
+CVX US Equity,Chevron Corp,S5ENRSX,WPFS7S-R
+COP US Equity,ConocoPhillips,S5ENRSX,TWXW2R-R
+NOV US Equity,NOV Inc,S5ENRSX,VBL38Y-R
+XOM US Equity,Exxon Mobil Corp,S5ENRSX,QG1HR7-R
+PXD US Equity,Pioneer Natural Resources Co,S5ENRSX,TKKPJB-R
+VLO US Equity,Valero Energy Corp,S5ENRSX,H2VPCM-R
+SLB US Equity,Schlumberger NV,S5ENRSX,BJ2HRV-R
+DVN US Equity,Devon Energy Corp,S5ENRSX,G8WDMZ-R
+HES US Equity,Hess Corp,S5ENRSX,Q78D01-R
+MRO US Equity,Marathon Oil Corp,S5ENRSX,QMQV1Q-R
+WMB US Equity,Williams Cos Inc/The,S5ENRSX,QSDQCP-R
+COG US Equity,Cabot Oil & Gas Corp,S5ENRSX,WM5BXP-R
+PSX US Equity,Phillips 66,S5ENRSX,TTDQ0D-R
+HFC US Equity,HollyFrontier Corp,S5ENRSX,KSWML9-R
+APA US Equity,APA Corp,S5ENRSX,DMX4QY-R
+EOG US Equity,EOG Resources Inc,S5ENRSX,QHBXV5-R
+KMI US Equity,Kinder Morgan Inc,S5ENRSX,XM8P7T-R
+BKR US Equity,Baker Hughes Co,S5ENRSX,NFMH78-R
+MPC US Equity,Marathon Petroleum Corp,S5ENRSX,JRFYNM-R
+HAL US Equity,Halliburton Co,S5ENRSX,GN6KCJ-R
+FANG US Equity,Diamondback Energy Inc,S5ENRSX,H69CWS-R

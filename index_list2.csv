@@ -1,0 +1,1383 @@
+﻿BBG Ticker,Name,index,fsym id
+ADYEN NA Equity,Adyen NV,SX5E,B8DGF3-R
+ENEL IM Equity,Enel SpA,SX5E,BFTG53-R
+DTE GR Equity,Deutsche Telekom AG,SX5E,DMXKJB-R
+DAI GR Equity,Daimler AG,SX5E,DRBPYY-R
+PRX NA Equity,Prosus NV,SX5E,F39WDV-R
+SIE GR Equity,Siemens AG,SX5E,F82JBR-R
+BAYN GR Equity,Bayer AG,SX5E,FVCVC5-R
+LIN GR Equity,Linde PLC,SX5E,GM21N6-R
+CS FP Equity,AXA SA,SX5E,GM702V-R
+ALV GR Equity,Allianz SE,SX5E,GQH62T-R
+MC FP Equity,LVMH Moet Hennessy Louis Vuitton SE,SX5E,GQH86W-R
+BNP FP Equity,BNP Paribas SA,SX5E,GSRMDX-R
+AI FP Equity,Air Liquide SA,SX5E,HXYRFX-R
+ASML NA Equity,ASML Holding NV,SX5E,JWGWTR-R
+VIV FP Equity,Vivendi SE,SX5E,LY205L-R
+INGA NA Equity,ING Groep NV,SX5E,LY6KWW-R
+SAN FP Equity,Sanofi,SX5E,M78XGX-R
+ABI BB Equity,Anheuser-Busch InBev SA/NV,SX5E,MH7BG5-R
+RI FP Equity,Pernod Ricard SA,SX5E,MQ1RPL-R
+SAF FP Equity,Safran SA,SX5E,NGS8GV-R
+FP FP Equity,TOTAL SE,SX5E,NL9BH6-R
+ISP IM Equity,Intesa Sanpaolo SpA,SX5E,NYHV8B-R
+KER FP Equity,Kering SA,SX5E,P45SVG-R
+IFX GR Equity,Infineon Technologies AG,SX5E,P59ZZH-R
+AIR FP Equity,Airbus SE,SX5E,PKYMY1-R
+SU FP Equity,Schneider Electric SE,SX5E,PVX0ZC-R
+SAP GR Equity,SAP SE,SX5E,Q53RYJ-R
+MUV2 GR Equity,Munich Re,SX5E,Q8CXWG-R
+VOW3 GR Equity,Volkswagen AG,SX5E,QBTQFL-R
+ADS GR Equity,adidas AG,SX5E,QDYYRR-R
+ENGI FP Equity,Engie SA,SX5E,QKJP1R-R
+EL FP Equity,EssilorLuxottica SA,SX5E,R6Y499-R
+DG FP Equity,Vinci SA,SX5E,R71R5P-R
+ENI IM Equity,Eni SpA,SX5E,R9B29P-R
+BMW GR Equity,Bayerische Motoren Werke AG,SX5E,RT6MQY-R
+DB1 GR Equity,Deutsche Boerse AG,SX5E,RT6W65-R
+BN FP Equity,Danone SA,SX5E,SC37CB-R
+BAS GR Equity,BASF SE,SX5E,SKYG3H-R
+OR FP Equity,L'Oreal SA,SX5E,SQG6NN-R
+DPW GR Equity,Deutsche Post AG,SX5E,V3R2XZ-R
+AD NA Equity,Koninklijke Ahold Delhaize NV,SX5E,VJ7HTK-R
+KNEBV FH Equity,Kone Oyj,SX5E,VWH0HM-R
+PHIA NA Equity,Koninklijke Philips NV,SX5E,WGRN6D-R
+VNA GR Equity,Vonovia SE,SX5E,XPYPGM-R
+SAN SM Equity,Banco Santander SA,SX5E,NQPWYC-R
+AMS SM Equity,Amadeus IT Group SA,SX5E,HMZCMS-R
+IBE SM Equity,Iberdrola SA,SX5E,B97PT2-R
+ITX SM Equity,Industria de Diseno Textil SA,SX5E,N189DN-R
+FLTR LN Equity,Flutter Entertainment PLC,SX5E,VDW0JH-R
+CRH LN Equity,CRH PLC,SX5E,H6D55C-R
+SAN SM Equity,Banco Santander SA,SX5T,NQPWYC-R
+AMS SM Equity,Amadeus IT Group SA,SX5T,HMZCMS-R
+IBE SM Equity,Iberdrola SA,SX5T,B97PT2-R
+LIN GR Equity,Linde PLC,SX5T,GM21N6-R
+ITX SM Equity,Industria de Diseno Textil SA,SX5T,N189DN-R
+FLTR LN Equity,Flutter Entertainment PLC,SX5T,VDW0JH-R
+ALV GR Equity,Allianz SE,SX5T,GQH62T-R
+BAYN GR Equity,Bayer AG,SX5T,FVCVC5-R
+BMW GR Equity,Bayerische Motoren Werke AG,SX5T,RT6MQY-R
+CRH LN Equity,CRH PLC,SX5T,H6D55C-R
+BAS GR Equity,BASF SE,SX5T,SKYG3H-R
+SIE GR Equity,Siemens AG,SX5T,F82JBR-R
+VOW3 GR Equity,Volkswagen AG,SX5T,QBTQFL-R
+MUV2 GR Equity,Munich Re,SX5T,Q8CXWG-R
+SAP GR Equity,SAP SE,SX5T,Q53RYJ-R
+ADS GR Equity,adidas AG,SX5T,QDYYRR-R
+DTE GR Equity,Deutsche Telekom AG,SX5T,DMXKJB-R
+DPW GR Equity,Deutsche Post AG,SX5T,V3R2XZ-R
+DAI GR Equity,Daimler AG,SX5T,DRBPYY-R
+IFX GR Equity,Infineon Technologies AG,SX5T,P59ZZH-R
+DB1 GR Equity,Deutsche Boerse AG,SX5T,RT6W65-R
+VNA GR Equity,Vonovia SE,SX5T,XPYPGM-R
+PHIA NA Equity,Koninklijke Philips NV,SX5T,WGRN6D-R
+KNEBV FH Equity,Kone Oyj,SX5T,VWH0HM-R
+AD NA Equity,Koninklijke Ahold Delhaize NV,SX5T,VJ7HTK-R
+OR FP Equity,L'Oreal SA,SX5T,SQG6NN-R
+BN FP Equity,Danone SA,SX5T,SC37CB-R
+ENI IM Equity,Eni SpA,SX5T,R9B29P-R
+DG FP Equity,Vinci SA,SX5T,R71R5P-R
+EL FP Equity,EssilorLuxottica SA,SX5T,R6Y499-R
+ENGI FP Equity,Engie SA,SX5T,QKJP1R-R
+SU FP Equity,Schneider Electric SE,SX5T,PVX0ZC-R
+AIR FP Equity,Airbus SE,SX5T,PKYMY1-R
+KER FP Equity,Kering SA,SX5T,P45SVG-R
+ISP IM Equity,Intesa Sanpaolo SpA,SX5T,NYHV8B-R
+FP FP Equity,TOTAL SE,SX5T,NL9BH6-R
+SAF FP Equity,Safran SA,SX5T,NGS8GV-R
+RI FP Equity,Pernod Ricard SA,SX5T,MQ1RPL-R
+ABI BB Equity,Anheuser-Busch InBev SA/NV,SX5T,MH7BG5-R
+SAN FP Equity,Sanofi,SX5T,M78XGX-R
+INGA NA Equity,ING Groep NV,SX5T,LY6KWW-R
+VIV FP Equity,Vivendi SE,SX5T,LY205L-R
+ASML NA Equity,ASML Holding NV,SX5T,JWGWTR-R
+AI FP Equity,Air Liquide SA,SX5T,HXYRFX-R
+BNP FP Equity,BNP Paribas SA,SX5T,GSRMDX-R
+MC FP Equity,LVMH Moet Hennessy Louis Vuitton SE,SX5T,GQH86W-R
+CS FP Equity,AXA SA,SX5T,GM702V-R
+PRX NA Equity,Prosus NV,SX5T,F39WDV-R
+ENEL IM Equity,Enel SpA,SX5T,BFTG53-R
+ADYEN NA Equity,Adyen NV,SX5T,B8DGF3-R
+ELE SM Equity,Endesa SA,SX6P,XJKZH4-R
+UN01 GR Equity,Uniper SE,SX6P,BQK76V-R
+IBE SM Equity,Iberdrola SA,SX6P,B97PT2-R
+NTGY SM Equity,Naturgy Energy Group SA,SX6P,L0Q74W-R
+REE SM Equity,Red Electrica Corp SA,SX6P,HP1KTT-R
+RWE GR Equity,RWE AG,SX6P,J07D56-R
+EOAN GR Equity,E.ON SE,SX6P,F2JQPJ-R
+EDPR PL Equity,EDP Renovaveis SA,SX6P,X41LWS-R
+EDF FP Equity,Electricite de France SA,SX6P,W6QTMW-R
+SSE LN Equity,SSE PLC,SX6P,V70D41-R
+VER AV Equity,Verbund AG,SX6P,TVPQ9Y-R
+HER IM Equity,Hera SpA,SX6P,TP09WD-R
+TRN IM Equity,Terna Rete Elettrica Nazionale SpA,SX6P,SKZ5H5-R
+SEV FP Equity,Suez SA,SX6P,S6KQHL-R
+EDP PL Equity,EDP - Energias de Portugal SA,SX6P,RQTY5S-R
+IG IM Equity,Italgas SpA,SX6P,QS9BG1-R
+ENGI FP Equity,Engie SA,SX6P,QKJP1R-R
+FORTUM FH Equity,Fortum Oyj,SX6P,NZP5KF-R
+SVT LN Equity,Severn Trent PLC,SX6P,LRJK5P-R
+CNA LN Equity,Centrica PLC,SX6P,LHKZY9-R
+ORSTED DC Equity,Orsted AS,SX6P,KFDRGY-R
+A2A IM Equity,A2A SpA,SX6P,JYXN9V-R
+NG/ LN Equity,National Grid PLC,SX6P,J2N4RC-R
+UU/ LN Equity,United Utilities Group PLC,SX6P,H9PG8C-R
+PNN LN Equity,Pennon Group PLC,SX6P,DLMRLZ-R
+ELI BB Equity,Elia Group SA/NV,SX6P,CB3CHZ-R
+VIE FP Equity,Veolia Environnement SA,SX6P,BLBH7J-R
+ENEL IM Equity,Enel SpA,SX6P,BFTG53-R
+BBVA SM Equity,Banco Bilbao Vizcaya Argentaria SA,SX7E,S6PT59-R
+SAN SM Equity,Banco Santander SA,SX7E,NQPWYC-R
+BKT SM Equity,Bankinter SA,SX7E,PHL0HY-R
+SAB SM Equity,Banco de Sabadell SA,SX7E,NZTKYK-R
+CABK SM Equity,CaixaBank SA,SX7E,NZNF7V-R
+CBK GR Equity,Commerzbank AG,SX7E,D3HSB0-R
+BIRG LN Equity,Bank of Ireland Group PLC,SX7E,HQ4JLP-R
+DBK GR Equity,Deutsche Bank AG,SX7E,S6QLP1-R
+BAMI IM Equity,Banco BPM SpA,SX7E,XC3B11-R
+GLE FP Equity,Societe Generale SA,SX7E,VXQN5W-R
+RBI AV Equity,Raiffeisen Bank International AG,SX7E,S0YJ3Z-R
+ABN NA Equity,ABN AMRO Bank NV,SX7E,Q7XWQX-R
+KBC BB Equity,KBC Group NV,SX7E,PZGQ27-R
+EBS AV Equity,Erste Group Bank AG,SX7E,PQHMVC-R
+ISP IM Equity,Intesa Sanpaolo SpA,SX7E,NYHV8B-R
+UCG IM Equity,UniCredit SpA,SX7E,M60C0S-R
+INGA NA Equity,ING Groep NV,SX7E,LY6KWW-R
+FBK IM Equity,FinecoBank Banca Fineco SpA,SX7E,LVTKC1-R
+BG AV Equity,BAWAG Group AG,SX7E,GW7KTS-R
+ACA FP Equity,Credit Agricole SA,SX7E,GSX767-R
+BNP FP Equity,BNP Paribas SA,SX7E,GSRMDX-R
+KN FP Equity,Natixis SA,SX7E,GND87W-R
+RBS LN Equity,Natwest Group PLC,SX7P,KHS6Z8-R
+BIRG LN Equity,Bank of Ireland Group PLC,SX7P,HQ4JLP-R
+PEO PW Equity,Bank Polska Kasa Opieki SA,SX7P,XLYS7D-R
+BAMI IM Equity,Banco BPM SpA,SX7P,XC3B11-R
+GLE FP Equity,Societe Generale SA,SX7P,VXQN5W-R
+VMUK LN Equity,Virgin Money UK PLC,SX7P,V13BHR-R
+DANSKE DC Equity,Danske Bank A/S,SX7P,TZ1Y2R-R
+DBK GR Equity,Deutsche Bank AG,SX7P,S6QLP1-R
+BBVA SM Equity,Banco Bilbao Vizcaya Argentaria SA,SX7P,S6PT59-R
+RBI AV Equity,Raiffeisen Bank International AG,SX7P,S0YJ3Z-R
+STAN LN Equity,Standard Chartered PLC,SX7P,RT2GT1-R
+PKO PW Equity,Powszechna Kasa Oszczednosci Bank Polski,SX7P,RBCQLB-R
+CMBN SW Equity,Cembra Money Bank AG,SX7P,R7RWKM-R
+CBG LN Equity,Close Brothers Group PLC,SX7P,QNWBS1-R
+LLOY LN Equity,Lloyds Banking Group PLC,SX7P,QG1XJM-R
+ABN NA Equity,ABN AMRO Bank NV,SX7P,Q7XWQX-R
+BARC LN Equity,Barclays PLC,SX7P,Q1KZKH-R
+KBC BB Equity,KBC Group NV,SX7P,PZGQ27-R
+EBS AV Equity,Erste Group Bank AG,SX7P,PQHMVC-R
+BKT SM Equity,Bankinter SA,SX7P,PHL0HY-R
+SAB SM Equity,Banco de Sabadell SA,SX7P,NZTKYK-R
+CABK SM Equity,CaixaBank SA,SX7P,NZNF7V-R
+SEBA SS Equity,Skandinaviska Enskilda Banken AB,SX7P,NYJ1NJ-R
+ISP IM Equity,Intesa Sanpaolo SpA,SX7P,NYHV8B-R
+SAN SM Equity,Banco Santander SA,SX7P,NQPWYC-R
+HSBA LN Equity,HSBC Holdings PLC,SX7P,MH2X00-R
+UCG IM Equity,UniCredit SpA,SX7P,M60C0S-R
+INGA NA Equity,ING Groep NV,SX7P,LY6KWW-R
+FBK IM Equity,FinecoBank Banca Fineco SpA,SX7P,LVTKC1-R
+DNB NO Equity,DNB ASA,SX7P,L57WDW-R
+BG AV Equity,BAWAG Group AG,SX7P,GW7KTS-R
+SWEDA SS Equity,Swedbank AB,SX7P,GW6H33-R
+ACA FP Equity,Credit Agricole SA,SX7P,GSX767-R
+BNP FP Equity,BNP Paribas SA,SX7P,GSRMDX-R
+KN FP Equity,Natixis SA,SX7P,GND87W-R
+BCVN SW Equity,Banque Cantonale Vaudoise,SX7P,G6SN46-R
+SHBA SS Equity,Svenska Handelsbanken AB,SX7P,FWJ4P9-R
+CBK GR Equity,Commerzbank AG,SX7P,D3HSB0-R
+AZA SS Equity,Avanza Bank Holding AB,SX7P,CY7YM1-R
+NDA SS Equity,Nordea Bank Abp,SX7P,BQ62W9-R
+G24 GR Equity,Scout24 AG,SX8P,WKN8S4-R
+AMS SW Equity,ams AG,SX8P,C5K9GL-R
+AMS SM Equity,Amadeus IT Group SA,SX8P,HMZCMS-R
+TEMN SW Equity,Temenos AG,SX8P,CC6S48-R
+TMV GR Equity,TeamViewer AG,SX8P,L65FJB-R
+NEM GR Equity,Nemetschek SE,SX8P,FYP7N8-R
+BC8 GR Equity,Bechtle AG,SX8P,BB8V37-R
+UTDI GR Equity,United Internet AG,SX8P,SNCKBZ-R
+LOGN SW Equity,Logitech International SA,SX8P,T7C5W9-R
+DLG GR Equity,Dialog Semiconductor PLC,SX8P,W4FDDV-R
+SAP GR Equity,SAP SE,SX8P,Q53RYJ-R
+IFX GR Equity,Infineon Technologies AG,SX8P,P59ZZH-R
+SWON SW Equity,Softwareone Holding AG,SX8P,QR9G8S-R
+AVST LN Equity,Avast PLC,SX8P,W2JHR7-R
+DSY FP Equity,Dassault Systemes SE,SX8P,VMHPTJ-R
+SIM DC Equity,SimCorp A/S,SX8P,S22HVT-R
+AUTO LN Equity,Auto Trader Group PLC,SX8P,RQC189-R
+AVV LN Equity,AVEVA Group PLC,SX8P,RPV8Q0-R
+ATE FP Equity,Alten SA,SX8P,RCFYZJ-R
+NETC DC Equity,Netcompany Group A/S,SX8P,Q9SWCC-R
+SCT LN Equity,Softcat PLC,SX8P,PYV9PN-R
+TKWY NA Equity,Just Eat Takeaway.com NV,SX8P,P6FKFG-R
+BESI NA Equity,BE Semiconductor Industries NV,SX8P,M3XC1S-R
+HEXAB SS Equity,Hexagon AB,SX8P,LVVB64-R
+SINCH SS Equity,Sinch AB,SX8P,JY8B5D-R
+ASML NA Equity,ASML Holding NV,SX8P,JWGWTR-R
+SOI FP Equity,SOITEC,SX8P,JFVH6B-R
+STM IM Equity,STMicroelectronics NV,SX8P,GW0ZLY-R
+ASM NA Equity,ASM International NV,SX8P,GM7H09-R
+SCHA NO Equity,Schibsted ASA,SX8P,G4GNVN-R
+SOP FP Equity,Sopra Steria Group SACA,SX8P,G12VZ9-R
+CAP FP Equity,Capgemini SE,SX8P,F86QBP-R
+PRX NA Equity,Prosus NV,SX8P,F39WDV-R
+SGE LN Equity,Sage Group PLC/The,SX8P,F057JK-R
+NOD NO Equity,Nordic Semiconductor ASA,SX8P,CSQ76Z-R
+ATO FP Equity,Atos SE,SX8P,C1ZH3L-R
+EO FP Equity,Faurecia SE,SXAP,WZJV6H-R
+ML FP Equity,Michelin,SXAP,QLR4HX-R
+RACE IM Equity,Ferrari NV,SXAP,Q05NFB-R
+RNO FP Equity,Renault SA,SXAP,VK7479-R
+FR FP Equity,Valeo SA,SXAP,PD8SK0-R
+PAH3 GR Equity,Porsche Automobil Holding SE,SXAP,PKT6GW-R
+TYRES FH Equity,Nokian Renkaat Oyj,SXAP,LP3TNK-R
+BMW GR Equity,Bayerische Motoren Werke AG,SXAP,RT6MQY-R
+VOW3 GR Equity,Volkswagen AG,SXAP,QBTQFL-R
+DAI GR Equity,Daimler AG,SXAP,DRBPYY-R
+CON GR Equity,Continental AG,SXAP,J2HM33-R
+SFZN SW Equity,Siegfried Holding AG,SXDP,LF6ZPS-R
+IDIA SW Equity,Idorsia Ltd,SXDP,VYVLHB-R
+STMN SW Equity,Straumann Holding AG,SXDP,DCZ6P4-R
+LONN SW Equity,Lonza Group AG,SXDP,CRNVGL-R
+NOVN SW Equity,Novartis AG,SXDP,MBPRB7-R
+ROG SW Equity,Roche Holding AG,SXDP,MT9P59-R
+SOON SW Equity,Sonova Holding AG,SXDP,QLLYHZ-R
+GXI GR Equity,Gerresheimer AG,SXDP,FXMKFQ-R
+SHL GR Equity,Siemens Healthineers AG,SXDP,B4W80H-R
+MOR GR Equity,MorphoSys AG,SXDP,J62PZC-R
+QIA GR Equity,QIAGEN NV,SXDP,M3Q8G2-R
+AFX GR Equity,Carl Zeiss Meditec AG,SXDP,PZGYJG-R
+ALC SW Equity,Alcon Inc,SXDP,SXZFWZ-R
+SRT3 GR Equity,Sartorius AG,SXDP,FBBQ6M-R
+EVT GR Equity,Evotec SE,SXDP,TLWJDN-R
+BAYN GR Equity,Bayer AG,SXDP,FVCVC5-R
+TECN SW Equity,Tecan Group AG,SXDP,V0CW55-R
+VIFN SW Equity,Vifor Pharma AG,SXDP,SKZ6K6-R
+FRE GR Equity,Fresenius SE & Co KGaA,SXDP,B3LWD0-R
+MRK GR Equity,Merck KGaA,SXDP,KFN73B-R
+GRF SM Equity,Grifols SA,SXDP,WDKLDJ-R
+FME GR Equity,Fresenius Medical Care AG & Co KGaA,SXDP,D3XD6P-R
+UDG LN Equity,UDG Healthcare PLC,SXDP,X56VXP-R
+GNS LN Equity,Genus PLC,SXDP,X477HY-R
+HIK LN Equity,Hikma Pharmaceuticals PLC,SXDP,WRRSLC-R
+AMP IM Equity,Amplifon SpA,SXDP,WJWHT6-R
+PHIA NA Equity,Koninklijke Philips NV,SXDP,WGRN6D-R
+CHR DC Equity,Chr Hansen Holding A/S,SXDP,W4N5GB-R
+IPN FP Equity,Ipsen SA,SXDP,VWJ2JM-R
+EKTAB SS Equity,Elekta AB,SXDP,SJXTST-R
+SOBI SS Equity,Swedish Orphan Biovitrum AB,SXDP,RQX8MZ-R
+DPH LN Equity,Dechra Pharmaceuticals PLC,SXDP,RK53VS-R
+EL FP Equity,EssilorLuxottica SA,SXDP,R6Y499-R
+DEMANT DC Equity,Demant A/S,SXDP,Q9JDJR-R
+GSK LN Equity,GlaxoSmithKline PLC,SXDP,Q8D48N-R
+REC IM Equity,Recordati Industria Chimica e Farmaceuti,SXDP,P1YDHB-R
+GMAB DC Equity,Genmab A/S,SXDP,P0YS2L-R
+AMBUB DC Equity,Ambu A/S,SXDP,NNMH2X-R
+GLPG NA Equity,Galapagos NV,SXDP,NK7572-R
+NOVOB DC Equity,Novo Nordisk A/S,SXDP,MVMFXK-R
+SAN FP Equity,Sanofi,SXDP,M78XGX-R
+BIM FP Equity,BioMerieux,SXDP,LD75YW-R
+SN/ LN Equity,Smith & Nephew PLC,SXDP,L5CD35-R
+DIA IM Equity,DiaSorin SpA,SXDP,KXDF6J-R
+DIM FP Equity,Sartorius Stedim Biotech,SXDP,KQMGSG-R
+UCB BB Equity,UCB SA,SXDP,KNHDSG-R
+ORP FP Equity,Orpea SA,SXDP,K01WHX-R
+NZYMB DC Equity,Novozymes A/S,SXDP,HWYYQ0-R
+AZN LN Equity,AstraZeneca PLC,SXDP,GY9L86-R
+GETIB SS Equity,Getinge AB,SXDP,GK0D7G-R
+GN DC Equity,GN Store Nord AS,SXDP,FK99CY-R
+ARGX BB Equity,Argenx SE,SXDP,DG473N-R
+CTEC LN Equity,ConvaTec Group PLC,SXDP,CHLB60-R
+ORNBV FH Equity,Orion Oyj,SXDP,CGMTCS-R
+ERF FP Equity,Eurofins Scientific SE,SXDP,CGGTW3-R
+COLOB DC Equity,Coloplast A/S,SXDP,CD71SM-R
+SSO NO Equity,Scatec ASA,SXEP,C127WQ-R
+REP SM Equity,Repsol SA,SXEP,G0XN0D-R
+ENR GR Equity,Siemens Energy AG,SXEP,GXQDVD-R
+AKERBP NO Equity,Aker BP ASA,SXEP,BLBW30-R
+ENG SM Equity,Enagas SA,SXEP,R2JVCD-R
+SGRE SM Equity,Siemens Gamesa Renewable Energy SA,SXEP,LGC7YW-R
+PKN PW Equity,Polski Koncern Naftowy ORLEN SA,SXEP,W0ZW7W-R
+OMV AV Equity,OMV AG,SXEP,VVCHP7-R
+NESTE FH Equity,Neste Oyj,SXEP,VJ9CC9-R
+GALP PL Equity,Galp Energia SGPS SA,SXEP,T6GNCG-R
+TEN IM Equity,Tenaris SA,SXEP,SN6T9J-R
+BP/ LN Equity,BP PLC,SXEP,S8V1HG-R
+EQNR NO Equity,Equinor ASA,SXEP,RZSB30-R
+ENI IM Equity,Eni SpA,SXEP,R9B29P-R
+SRG IM Equity,Snam SpA,SXEP,QYYXT9-R
+FTI FP Equity,TechnipFMC PLC,SXEP,PM465W-R
+FP FP Equity,TOTAL SE,SXEP,NL9BH6-R
+LUNE SS Equity,Lundin Energy AB,SXEP,LF9T2F-R
+NEL NO Equity,NEL ASA,SXEP,KNCW14-R
+SBMO NA Equity,SBM Offshore NV,SXEP,KL1VPK-R
+VWS DC Equity,Vestas Wind Systems A/S,SXEP,G6QVQJ-R
+RDSA NA Equity,Royal Dutch Shell PLC,SXEP,D1R73N-R
+BALN SW Equity,Baloise Holding AG,SXIP,KYL30T-R
+SLHN SW Equity,Swiss Life Holding AG,SXIP,HF31NG-R
+SREN SW Equity,Swiss Re AG,SXIP,T8YXW3-R
+ZURN SW Equity,Zurich Insurance Group AG,SXIP,K3FPD8-R
+ALV GR Equity,Allianz SE,SXIP,GQH62T-R
+MUV2 GR Equity,Munich Re,SXIP,Q8CXWG-R
+HELN SW Equity,Helvetia Holding AG,SXIP,NQWDFJ-R
+HNR1 GR Equity,Hannover Rueck SE,SXIP,L8SYB5-R
+HSX LN Equity,Hiscox Ltd,SXIP,WW8WNR-R
+G IM Equity,Assicurazioni Generali SpA,SXIP,W7TTGS-R
+PZU PW Equity,Powszechny Zaklad Ubezpieczen SA,SXIP,VYTGTR-R
+AGN NA Equity,Aegon NV,SXIP,VPRXRF-R
+ASRNL NA Equity,ASR Nederland NV,SXIP,VPJF20-R
+SAMPO FH Equity,Sampo Oyj,SXIP,VBKJ5D-R
+PRU LN Equity,Prudential PLC,SXIP,V4QWNW-R
+NN NA Equity,NN Group NV,SXIP,TMWCW7-R
+TRYG DC Equity,Tryg A/S,SXIP,S4HTHH-R
+PHNX LN Equity,Phoenix Group Holdings PLC,SXIP,RS2N47-R
+LGEN LN Equity,Legal & General Group PLC,SXIP,R033YB-R
+SCR FP Equity,SCOR SE,SXIP,QBX2YT-R
+STB NO Equity,Storebrand ASA,SXIP,NJ2NHR-R
+PST IM Equity,Poste Italiane SpA,SXIP,KBR84J-R
+RSA LN Equity,RSA Insurance Group PLC,SXIP,HKLT6M-R
+CS FP Equity,AXA SA,SXIP,GM702V-R
+GJF NO Equity,Gjensidige Forsikring ASA,SXIP,FNW967-R
+DLG LN Equity,Direct Line Insurance Group PLC,SXIP,DBXPPN-R
+ADM LN Equity,Admiral Group PLC,SXIP,D2TYF9-R
+AV/ LN Equity,Aviva PLC,SXIP,CKVFC8-R
+AGS BB Equity,Ageas SA/NV,SXIP,C5C2LR-R
+CNP FP Equity,CNP Assurances,SXIP,BXL2ZL-R
+BEZ LN Equity,Beazley PLC,SXIP,BK790F-R
+KPN NA Equity,Koninklijke KPN NV,SXKP,GY9DY1-R
+TEF SM Equity,Telefonica SA,SXKP,CPDD2G-R
+TEL2B SS Equity,Tele2 AB,SXKP,K6W4F5-R
+TELIA SS Equity,Telia Co AB,SXKP,R2JS7B-R
+TEL NO Equity,Telenor ASA,SXKP,H7F209-R
+ELISA FH Equity,Elisa Oyj,SXKP,Q514Z2-R
+SESG FP Equity,SES SA,SXKP,GJV8GN-R
+FNTN GR Equity,Freenet AG,SXKP,RMHTJ0-R
+INW IM Equity,Infrastrutture Wireless Italiane SpA,SXKP,D4NXL8-R
+SCMN SW Equity,Swisscom AG,SXKP,SSRNYQ-R
+ERICB SS Equity,Telefonaktiebolaget LM Ericsson,SXKP,P6LTYW-R
+ORA FP Equity,Orange SA,SXKP,HSDXVR-R
+ILD FP Equity,Iliad SA,SXKP,RH0XLN-R
+PROX BB Equity,Proximus SADP,SXKP,LTTQYH-R
+VOD LN Equity,Vodafone Group PLC,SXKP,J4RDQ3-R
+NOKIA FH Equity,Nokia Oyj,SXKP,M9KK66-R
+CLNX SM Equity,Cellnex Telecom SA,SXKP,M7R42R-R
+BT/A LN Equity,BT Group PLC,SXKP,DKMXT1-R
+DTE GR Equity,Deutsche Telekom AG,SXKP,DMXKJB-R
+TIT IM Equity,Telecom Italia SpA/Milano,SXKP,RT6ZD8-R
+OTE1V FH Equity,Metso Outotec Oyj,SXNP,B045ZY-R
+SKG LN Equity,Smurfit Kappa Group PLC,SXNP,D8NXL4-R
+AENA SM Equity,Aena SME SA,SXNP,PM9V18-R
+RMG LN Equity,Royal Mail PLC,SXNP,XH6933-R
+WEIR LN Equity,Weir Group PLC/The,SXNP,XG8BVX-R
+INDT SS Equity,Indutrade AB,SXNP,XBY522-R
+AALB NA Equity,Aalberts NV,SXNP,X9WZPW-R
+KGX GR Equity,KION Group AG,SXNP,X9G6FZ-R
+IP IM Equity,Interpump Group SpA,SXNP,X8MC3P-R
+MNDI LN Equity,Mondi PLC,SXNP,X31C9G-R
+HUH1V FH Equity,Huhtamaki Oyj,SXNP,X1TBNN-R
+EPIA SS Equity,Epiroc AB,SXNP,WXJXS1-R
+ROR LN Equity,Rotork PLC,SXNP,WK11GG-R
+VALMT FH Equity,Valmet Oyj,SXNP,WJNT62-R
+IMI LN Equity,IMI PLC,SXNP,WDBQ92-R
+RAA GR Equity,Rational AG,SXNP,W8Z700-R
+KNEBV FH Equity,Kone Oyj,SXNP,VWH0HM-R
+HLMA LN Equity,Halma PLC,SXNP,VQYC7M-R
+RAND NA Equity,Randstad NV,SXNP,V4XB0Z-R
+DPW GR Equity,Deutsche Post AG,SXNP,V3R2XZ-R
+ATL IM Equity,Atlantia SpA,SXNP,TQ8XDK-R
+ELIS FP Equity,Elis SA,SXNP,TN5Y36-R
+LIFCOB SS Equity,Lifco AB,SXNP,TGN13R-R
+HAS LN Equity,Hays PLC,SXNP,T66ZR8-R
+SPX LN Equity,Spirax-Sarco Engineering PLC,SXNP,SRS3P1-R
+ADEN SW Equity,Adecco Group AG,SXNP,SKXD2H-R
+EXPN LN Equity,Experian PLC,SXNP,S243YB-R
+IWG LN Equity,IWG PLC,SXNP,RNQ5S2-R
+KNIN SW Equity,Kuehne + Nagel International AG,SXNP,RML0Q2-R
+KBX GR Equity,Knorr-Bremse AG,SXNP,RGB6QT-R
+DSV DC Equity,DSV PANALPINA A/S,SXNP,R4PJJZ-R
+MAERSKB DC Equity,AP Moller - Maersk A/S,SXNP,QZ4Y8Y-R
+SECUB SS Equity,Securitas AB,SXNP,QZ3B6F-R
+ALO FP Equity,Alstom SA,SXNP,QSF694-R
+SMDS LN Equity,DS Smith PLC,SXNP,QCZ86Y-R
+FHZN SW Equity,Flughafen Zurich AG,SXNP,Q553HS-R
+INCH LN Equity,Inchcape PLC,SXNP,Q3ZMYK-R
+EDEN FP Equity,Edenred,SXNP,Q0JVDG-R
+SU FP Equity,Schneider Electric SE,SXNP,PVX0ZC-R
+VACN SW Equity,VAT Group AG,SXNP,PMSGZ0-R
+AIR FP Equity,Airbus SE,SXNP,PKYMY1-R
+GET FP Equity,Getlink SE,SXNP,PKTRNJ-R
+LR FP Equity,Legrand SA,SXNP,PB2NM2-R
+ITRK LN Equity,Intertek Group PLC,SXNP,P8X97Y-R
+ECM LN Equity,Electrocomponents PLC,SXNP,P7S21W-R
+ALFA SS Equity,Alfa Laval AB,SXNP,P7RWQQ-R
+VOLVB SS Equity,Volvo AB,SXNP,NZSHXK-R
+MGGT LN Equity,Meggitt PLC,SXNP,NYHXDD-R
+SAF FP Equity,Safran SA,SXNP,NGS8GV-R
+AM FP Equity,Dassault Aviation SA,SXNP,N4KJCL-R
+BEIJB SS Equity,Beijer Ref AB,SXNP,MVN234-R
+PRY IM Equity,Prysmian SpA,SXNP,MLRJQN-R
+SXS LN Equity,Spectris PLC,SXNP,MH8MYD-R
+AHT LN Equity,Ashtead Group PLC,SXNP,MCTS43-R
+WRT1V FH Equity,Wartsila OYJ Abp,SXNP,M76BKH-R
+SAND SS Equity,Sandvik AB,SXNP,LZCMNQ-R
+DCC LN Equity,DCC PLC,SXNP,LXHSHL-R
+MTX GR Equity,MTU Aero Engines AG,SXNP,LQ9WBB-R
+ADP FP Equity,Aeroports de Paris,SXNP,LD8KL5-R
+SCHP SW Equity,Schindler Holding AG,SXNP,LC2JZF-R
+ATCOA SS Equity,Atlas Copco AB,SXNP,LC28G5-R
+HO FP Equity,Thales SA,SXNP,L7MP54-R
+CNHI IM Equity,CNH Industrial NV,SXNP,L518VQ-R
+BOL FP Equity,Bollore SA,SXNP,KYL1YS-R
+BVI FP Equity,Bureau Veritas SA,SXNP,KL214V-R
+TRELB SS Equity,Trelleborg AB,SXNP,KDFDZV-R
+SIGN SW Equity,SIG Combibloc Group AG,SXNP,KCYPFK-R
+RTO LN Equity,Rentokil Initial PLC,SXNP,JWNLQ3-R
+MRO LN Equity,Melrose Industries PLC,SXNP,JPV5LS-R
+G1A GR Equity,GEA Group AG,SXNP,JLFH0L-R
+SGSN SW Equity,SGS SA,SXNP,JLFCTH-R
+TEP FP Equity,Teleperformance,SXNP,JK94MF-R
+TOM NO Equity,TOMRA Systems ASA,SXNP,JH4B5Q-R
+ANDR AV Equity,ANDRITZ AG,SXNP,J4T9VD-R
+BUCN SW Equity,Bucher Industries AG,SXNP,J0DWNC-R
+FERG LN Equity,Ferguson PLC,SXNP,H9SSMH-R
+BA/ LN Equity,BAE Systems PLC,SXNP,H3ZDL6-R
+ISS DC Equity,ISS A/S,SXNP,GV499G-R
+NEXI IM Equity,Nexi SpA,SXNP,GD0QSV-R
+RHM GR Equity,Rheinmetall AG,SXNP,FT4G44-R
+ABBN SW Equity,ABB Ltd,SXNP,FQZ7Z2-R
+RXL FP Equity,Rexel SA,SXNP,FBG90Z-R
+DPLM LN Equity,Diploma PLC,SXNP,F97RFR-R
+SIE GR Equity,Siemens AG,SXNP,F82JBR-R
+RR/ LN Equity,Rolls-Royce Holdings PLC,SXNP,DTMN8J-R
+VPK NA Equity,Koninklijke Vopak NV,SXNP,DTGY93-R
+TKA GR Equity,thyssenkrupp AG,SXNP,DQ5QB5-R
+FI-N SW Equity,Georg Fischer AG,SXNP,CVZ4KL-R
+BNZL LN Equity,Bunzl PLC,SXNP,CMX879-R
+LDO IM Equity,Leonardo SpA,SXNP,CM4SB4-R
+SMIN LN Equity,Smiths Group PLC,SXNP,C7RT3W-R
+SIG LN Equity,Signature Aviation PLC,SXNP,C6LRH5-R
+SRAIL SW Equity,Stadler Rail AG,SXNP,C2Z78Z-R
+WLN FP Equity,Worldline SA/France,SXNP,C0V8L5-R
+ADDTB SS Equity,AddTech AB,SXNP,BNNFG1-R
+ADYEN NA Equity,Adyen NV,SXNP,B8DGF3-R
+ANTO LN Equity,Antofagasta PLC,SXPP,CGFLHY-R
+RIO LN Equity,Rio Tinto PLC,SXPP,RS2FLX-R
+AAL LN Equity,Anglo American PLC,SXPP,LRJCVJ-R
+SKFB SS Equity,SKF AB,SXPP,V0CLMX-R
+EVR LN Equity,Evraz PLC,SXPP,F6M2T7-R
+VOE AV Equity,voestalpine AG,SXPP,Q9J52J-R
+POLY LN Equity,Polymetal International PLC,SXPP,NSGMFV-R
+MT NA Equity,ArcelorMittal SA,SXPP,DZ437D-R
+NHY NO Equity,Norsk Hydro ASA,SXPP,MVMBQG-R
+SCAB SS Equity,Svenska Cellulosa AB SCA,SXPP,DF3CR4-R
+BILL SS Equity,BillerudKorsnas AB,SXPP,QG3PY9-R
+HPOLB SS Equity,Hexpol AB,SXPP,SDCW2N-R
+STERV FH Equity,Stora Enso Oyj,SXPP,JCQQSM-R
+KGH PW Equity,KGHM Polska Miedz SA,SXPP,MWM5JD-R
+UPM FH Equity,UPM-Kymmene Oyj,SXPP,VQYLTZ-R
+GLEN LN Equity,Glencore PLC,SXPP,GDLPN9-R
+HOLMB SS Equity,Holmen AB,SXPP,J1JT84-R
+BOL SS Equity,Boliden AB,SXPP,TG9824-R
+BHP LN Equity,BHP Group PLC,SXPP,HSF47Y-R
+FDJ FP Equity,La Francaise des Jeux SAEM,SXTP,FT4D8B-R
+EZJ LN Equity,easyJet PLC,SXTP,LSNJXJ-R
+KINDSDB SS Equity,Kindred Group PLC,SXTP,GV30BR-R
+WTB LN Equity,Whitbread PLC,SXTP,PN6Z21-R
+TRN LN Equity,Trainline PLC,SXTP,S8JN79-R
+AC FP Equity,Accor SA,SXTP,NSZ0P5-R
+SW FP Equity,Sodexo SA,SXTP,F86RDQ-R
+RYA LN Equity,Ryanair Holdings PLC,SXTP,SY8CCT-R
+WIZZ LN Equity,Wizz Air Holdings Plc,SXTP,XL1474-R
+IHG LN Equity,InterContinental Hotels Group PLC,SXTP,LY217M-R
+CCL LN Equity,Carnival PLC,SXTP,TXY1K0-R
+FLTR LN Equity,Flutter Entertainment PLC,SXTP,VDW0JH-R
+EVO SS Equity,Evolution AB,SXTP,L3H7V7-R
+TUI LN Equity,TUI AG,SXTP,LQD7VK-R
+LHA GR Equity,Deutsche Lufthansa AG,SXTP,J0CL54-R
+IAG LN Equity,International Consolidated Airlines Grou,SXTP,RT3HS0-R
+KYGA LN Equity,Kerry Group PLC,SXXE,H7D23C-R
+OTE1V FH Equity,Metso Outotec Oyj,SXXE,B045ZY-R
+KGP LN Equity,Kingspan Group PLC,SXXE,F97SHS-R
+VNA GR Equity,Vonovia SE,SXXE,XPYPGM-R
+AKE FP Equity,Arkema SA,SXXE,XKWXKK-R
+ELE SM Equity,Endesa SA,SXXE,XJKZH4-R
+BAMI IM Equity,Banco BPM SpA,SXXE,XC3B11-R
+AALB NA Equity,Aalberts NV,SXXE,X9WZPW-R
+FGR FP Equity,Eiffage SA,SXXE,X9RMCS-R
+KGX GR Equity,KION Group AG,SXXE,X9G6FZ-R
+IP IM Equity,Interpump Group SpA,SXXE,X8MC3P-R
+EDPR PL Equity,EDP Renovaveis SA,SXXE,X41LWS-R
+HUH1V FH Equity,Huhtamaki Oyj,SXXE,X1TBNN-R
+EO FP Equity,Faurecia SE,SXXE,WZJV6H-R
+URW NA Equity,Unibail-Rodamco-Westfield,SXXE,WL9C30-R
+G24 GR Equity,Scout24 AG,SXXE,WKN8S4-R
+AMP IM Equity,Amplifon SpA,SXXE,WJWHT6-R
+VALMT FH Equity,Valmet Oyj,SXXE,WJNT62-R
+PHIA NA Equity,Koninklijke Philips NV,SXXE,WGRN6D-R
+GRF SM Equity,Grifols SA,SXXE,WDKLDJ-R
+LI FP Equity,Klepierre SA,SXXE,WCCWD2-R
+RAA GR Equity,Rational AG,SXXE,W8Z700-R
+G IM Equity,Assicurazioni Generali SpA,SXXE,W7TTGS-R
+SOLB BB Equity,Solvay SA,SXXE,W7T0Z1-R
+AMUN FP Equity,Amundi SA,SXXE,W7GV53-R
+EDF FP Equity,Electricite de France SA,SXXE,W6QTMW-R
+DLG GR Equity,Dialog Semiconductor PLC,SXXE,W4FDDV-R
+GLE FP Equity,Societe Generale SA,SXXE,VXQN5W-R
+IPN FP Equity,Ipsen SA,SXXE,VWJ2JM-R
+KNEBV FH Equity,Kone Oyj,SXXE,VWH0HM-R
+OMV AV Equity,OMV AG,SXXE,VVCHP7-R
+UPM FH Equity,UPM-Kymmene Oyj,SXXE,VQYLTZ-R
+AGN NA Equity,Aegon NV,SXXE,VPRXRF-R
+ASRNL NA Equity,ASR Nederland NV,SXXE,VPJF20-R
+DSY FP Equity,Dassault Systemes SE,SXXE,VMHPTJ-R
+RNO FP Equity,Renault SA,SXXE,VK7479-R
+MONC IM Equity,Moncler SpA,SXXE,VK44PN-R
+NESTE FH Equity,Neste Oyj,SXXE,VJ9CC9-R
+AD NA Equity,Koninklijke Ahold Delhaize NV,SXXE,VJ7HTK-R
+FLTR LN Equity,Flutter Entertainment PLC,SXXE,VDW0JH-R
+COV FP Equity,Covivio,SXXE,VCL3F1-R
+SAMPO FH Equity,Sampo Oyj,SXXE,VBKJ5D-R
+HFG GR Equity,HelloFresh SE,SXXE,V62YK0-R
+RAND NA Equity,Randstad NV,SXXE,V4XB0Z-R
+DPW GR Equity,Deutsche Post AG,SXXE,V3R2XZ-R
+JMT PL Equity,Jeronimo Martins SGPS SA,SXXE,V2HLHV-R
+MB IM Equity,Mediobanca Banca di Credito Finanziario,SXXE,TWYX1Q-R
+WKL NA Equity,Wolters Kluwer NV,SXXE,TWWNXR-R
+VER AV Equity,Verbund AG,SXXE,TVPQ9Y-R
+ATL IM Equity,Atlantia SpA,SXXE,TQ8XDK-R
+HER IM Equity,Hera SpA,SXXE,TP09WD-R
+ELIS FP Equity,Elis SA,SXXE,TN5Y36-R
+NN NA Equity,NN Group NV,SXXE,TMWCW7-R
+EVT GR Equity,Evotec SE,SXXE,TLWJDN-R
+LIGHT NA Equity,Signify NV,SXXE,TH0NDS-R
+GALP PL Equity,Galp Energia SGPS SA,SXXE,T6GNCG-R
+FER SM Equity,Ferrovial SA,SXXE,T31DQR-R
+ACS SM Equity,ACS Actividades de Construccion y Servic,SXXE,T1Q642-R
+RYA LN Equity,Ryanair Holdings PLC,SXXE,SY8CCT-R
+RUI FP Equity,Rubis SCA,SXXE,SX578S-R
+OR FP Equity,L'Oreal SA,SXXE,SQG6NN-R
+UTDI GR Equity,United Internet AG,SXXE,SNCKBZ-R
+TEN IM Equity,Tenaris SA,SXXE,SN6T9J-R
+TRN IM Equity,Terna Rete Elettrica Nazionale SpA,SXXE,SKZ5H5-R
+BAS GR Equity,BASF SE,SXXE,SKYG3H-R
+JDEP NA Equity,JDE Peet's NV,SXXE,SK4CJ6-R
+CA FP Equity,Carrefour SA,SXXE,SDCTWH-R
+BN FP Equity,Danone SA,SXXE,SC37CB-R
+DBK GR Equity,Deutsche Bank AG,SXXE,S6QLP1-R
+BBVA SM Equity,Banco Bilbao Vizcaya Argentaria SA,SXXE,S6PT59-R
+SEV FP Equity,Suez SA,SXXE,S6KQHL-R
+RBI AV Equity,Raiffeisen Bank International AG,SXXE,S0YJ3Z-R
+TIT IM Equity,Telecom Italia SpA/Milano,SXXE,RT6ZD8-R
+DB1 GR Equity,Deutsche Boerse AG,SXXE,RT6W65-R
+BMW GR Equity,Bayerische Motoren Werke AG,SXXE,RT6MQY-R
+EDP PL Equity,EDP - Energias de Portugal SA,SXXE,RQTY5S-R
+DSM NA Equity,Koninklijke DSM NV,SXXE,RNJP8X-R
+EVK GR Equity,Evonik Industries AG,SXXE,RN0R13-R
+FNTN GR Equity,Freenet AG,SXXE,RMHTJ0-R
+SGO FP Equity,Cie de Saint-Gobain,SXXE,RK87TQ-R
+ILD FP Equity,Iliad SA,SXXE,RH0XLN-R
+KBX GR Equity,Knorr-Bremse AG,SXXE,RGB6QT-R
+GFC FP Equity,Gecina SA,SXXE,RDQKHP-R
+ATE FP Equity,Alten SA,SXXE,RCFYZJ-R
+ENI IM Equity,Eni SpA,SXXE,R9B29P-R
+DG FP Equity,Vinci SA,SXXE,R71R5P-R
+EL FP Equity,EssilorLuxottica SA,SXXE,R6Y499-R
+ENG SM Equity,Enagas SA,SXXE,R2JVCD-R
+SRG IM Equity,Snam SpA,SXXE,QYYXT9-R
+SPIE FP Equity,SPIE SA,SXXE,QV6J9K-R
+CPR IM Equity,Davide Campari-Milano NV,SXXE,QTFWQW-R
+ALO FP Equity,Alstom SA,SXXE,QSF694-R
+IG IM Equity,Italgas SpA,SXXE,QS9BG1-R
+AT1 GR Equity,Aroundtown SA,SXXE,QM7F8W-R
+ML FP Equity,Michelin,SXXE,QLR4HX-R
+ENGI FP Equity,Engie SA,SXXE,QKJP1R-R
+ADS GR Equity,adidas AG,SXXE,QDYYRR-R
+SCR FP Equity,SCOR SE,SXXE,QBX2YT-R
+VOW3 GR Equity,Volkswagen AG,SXXE,QBTQFL-R
+VOE AV Equity,voestalpine AG,SXXE,Q9J52J-R
+MUV2 GR Equity,Munich Re,SXXE,Q8CXWG-R
+ABN NA Equity,ABN AMRO Bank NV,SXXE,Q7XWQX-R
+SAP GR Equity,SAP SE,SXXE,Q53RYJ-R
+ELISA FH Equity,Elisa Oyj,SXXE,Q514Z2-R
+EDEN FP Equity,Edenred,SXXE,Q0JVDG-R
+RACE IM Equity,Ferrari NV,SXXE,Q05NFB-R
+AFX GR Equity,Carl Zeiss Meditec AG,SXXE,PZGYJG-R
+KBC BB Equity,KBC Group NV,SXXE,PZGQ27-R
+SU FP Equity,Schneider Electric SE,SXXE,PVX0ZC-R
+EBS AV Equity,Erste Group Bank AG,SXXE,PQHMVC-R
+AENA SM Equity,Aena SME SA,SXXE,PM9V18-R
+ZAL GR Equity,Zalando SE,SXXE,PM6KP2-R
+FTI FP Equity,TechnipFMC PLC,SXXE,PM465W-R
+AIR FP Equity,Airbus SE,SXXE,PKYMY1-R
+GET FP Equity,Getlink SE,SXXE,PKTRNJ-R
+PAH3 GR Equity,Porsche Automobil Holding SE,SXXE,PKT6GW-R
+BKT SM Equity,Bankinter SA,SXXE,PHL0HY-R
+FR FP Equity,Valeo SA,SXXE,PD8SK0-R
+LR FP Equity,Legrand SA,SXXE,PB2NM2-R
+TEG GR Equity,TAG Immobilien AG,SXXE,P6MRQR-R
+TKWY NA Equity,Just Eat Takeaway.com NV,SXXE,P6FKFG-R
+DHER GR Equity,Delivery Hero SE,SXXE,P5GH6C-R
+IFX GR Equity,Infineon Technologies AG,SXXE,P59ZZH-R
+KER FP Equity,Kering SA,SXXE,P45SVG-R
+EVD GR Equity,CTS Eventim AG & Co KGaA,SXXE,P32T0K-R
+REC IM Equity,Recordati Industria Chimica e Farmaceuti,SXXE,P1YDHB-R
+SAB SM Equity,Banco de Sabadell SA,SXXE,NZTKYK-R
+FORTUM FH Equity,Fortum Oyj,SXXE,NZP5KF-R
+CABK SM Equity,CaixaBank SA,SXXE,NZNF7V-R
+ISP IM Equity,Intesa Sanpaolo SpA,SXXE,NYHV8B-R
+EXO IM Equity,EXOR NV,SXXE,NXK0CB-R
+AC FP Equity,Accor SA,SXXE,NSZ0P5-R
+SAN SM Equity,Banco Santander SA,SXXE,NQPWYC-R
+FP FP Equity,TOTAL SE,SXXE,NL9BH6-R
+GLPG NA Equity,Galapagos NV,SXXE,NK7572-R
+SAF FP Equity,Safran SA,SXXE,NGS8GV-R
+RCO FP Equity,Remy Cointreau SA,SXXE,N939WQ-R
+AM FP Equity,Dassault Aviation SA,SXXE,N4KJCL-R
+VIS SM Equity,Viscofan SA,SXXE,N3KTTS-R
+ITX SM Equity,Industria de Diseno Textil SA,SXXE,N189DN-R
+COLR BB Equity,Etablissements Franz Colruyt NV,SXXE,MWM188-R
+RI FP Equity,Pernod Ricard SA,SXXE,MQ1RPL-R
+PRY IM Equity,Prysmian SpA,SXXE,MLRJQN-R
+MF FP Equity,Wendel SE,SXXE,MLJKF3-R
+ABI BB Equity,Anheuser-Busch InBev SA/NV,SXXE,MH7BG5-R
+WDP BB Equity,Warehouses De Pauw CVA,SXXE,MDVHMW-R
+DWNI GR Equity,Deutsche Wohnen SE,SXXE,MBSR11-R
+NOKIA FH Equity,Nokia Oyj,SXXE,M9KK66-R
+CLNX SM Equity,Cellnex Telecom SA,SXXE,M7R42R-R
+AKZA NA Equity,Akzo Nobel NV,SXXE,M79YFW-R
+SAN FP Equity,Sanofi,SXXE,M78XGX-R
+WRT1V FH Equity,Wartsila OYJ Abp,SXXE,M76BKH-R
+UCG IM Equity,UniCredit SpA,SXXE,M60C0S-R
+BESI NA Equity,BE Semiconductor Industries NV,SXXE,M3XC1S-R
+QIA GR Equity,QIAGEN NV,SXXE,M3Q8G2-R
+PUB FP Equity,Publicis Groupe SA,SXXE,LZ645K-R
+INGA NA Equity,ING Groep NV,SXXE,LY6KWW-R
+VIV FP Equity,Vivendi SE,SXXE,LY205L-R
+BEI GR Equity,Beiersdorf AG,SXXE,LY1Y1J-R
+FPE3 GR Equity,FUCHS PETROLUB SE,SXXE,LVZ4GQ-R
+FBK IM Equity,FinecoBank Banca Fineco SpA,SXXE,LVTKC1-R
+PROX BB Equity,Proximus SADP,SXXE,LTTQYH-R
+HEIO NA Equity,Heineken Holding NV,SXXE,LTNDSH-R
+AED BB Equity,Aedifica SA,SXXE,LRMVGS-R
+MTX GR Equity,MTU Aero Engines AG,SXXE,LQ9WBB-R
+TYRES FH Equity,Nokian Renkaat Oyj,SXXE,LP3TNK-R
+RF FP Equity,Eurazeo SE,SXXE,LLW6X7-R
+SGRE SM Equity,Siemens Gamesa Renewable Energy SA,SXXE,LGC7YW-R
+UBI FP Equity,Ubisoft Entertainment SA,SXXE,LG9GK6-R
+ADP FP Equity,Aeroports de Paris,SXXE,LD8KL5-R
+BIM FP Equity,BioMerieux,SXXE,LD75YW-R
+HNR1 GR Equity,Hannover Rueck SE,SXXE,L8SYB5-R
+HO FP Equity,Thales SA,SXXE,L7MP54-R
+WIE AV Equity,Wienerberger AG,SXXE,L6DD46-R
+TMV GR Equity,TeamViewer AG,SXXE,L65FJB-R
+CNHI IM Equity,CNH Industrial NV,SXXE,L518VQ-R
+UMI BB Equity,Umicore SA,SXXE,L1YNFY-R
+NTGY SM Equity,Naturgy Energy Group SA,SXXE,L0Q74W-R
+BOL FP Equity,Bollore SA,SXXE,KYL1YS-R
+DIA IM Equity,DiaSorin SpA,SXXE,KXDF6J-R
+PSM GR Equity,ProSiebenSat.1 Media SE,SXXE,KV03BN-R
+KESKOB FH Equity,Kesko Oyj,SXXE,KRX5HQ-R
+DIM FP Equity,Sartorius Stedim Biotech,SXXE,KQMGSG-R
+UCB BB Equity,UCB SA,SXXE,KNHDSG-R
+BVI FP Equity,Bureau Veritas SA,SXXE,KL214V-R
+SBMO NA Equity,SBM Offshore NV,SXXE,KL1VPK-R
+MRL SM Equity,Merlin Properties Socimi SA,SXXE,KK2X62-R
+MRK GR Equity,Merck KGaA,SXXE,KFN73B-R
+PST IM Equity,Poste Italiane SpA,SXXE,KBR84J-R
+PUM GR Equity,Puma SE,SXXE,K6PMY0-R
+AOX GR Equity,alstria office REIT-AG,SXXE,K3DG13-R
+ORP FP Equity,Orpea SA,SXXE,K01WHX-R
+A2A IM Equity,A2A SpA,SXXE,JYXN9V-R
+ASML NA Equity,ASML Holding NV,SXXE,JWGWTR-R
+COL SM Equity,Inmobiliaria Colonial Socimi SA,SXXE,JTDRHK-R
+G1A GR Equity,GEA Group AG,SXXE,JLFH0L-R
+TEP FP Equity,Teleperformance,SXXE,JK94MF-R
+GLB LN Equity,Glanbia PLC,SXXE,JFWSPK-R
+SOI FP Equity,SOITEC,SXXE,JFVH6B-R
+STERV FH Equity,Stora Enso Oyj,SXXE,JCQQSM-R
+MOR GR Equity,MorphoSys AG,SXXE,J62PZC-R
+ANDR AV Equity,ANDRITZ AG,SXXE,J4T9VD-R
+SY1 GR Equity,Symrise AG,SXXE,J3R0B4-R
+CON GR Equity,Continental AG,SXXE,J2HM33-R
+LHA GR Equity,Deutsche Lufthansa AG,SXXE,J0CL54-R
+RWE GR Equity,RWE AG,SXXE,J07D56-R
+HEI GR Equity,HeidelbergCement AG,SXXE,HZ43T1-R
+AI FP Equity,Air Liquide SA,SXXE,HXYRFX-R
+GYC GR Equity,Grand City Properties SA,SXXE,HTB1H4-R
+ORA FP Equity,Orange SA,SXXE,HSDXVR-R
+BIRG LN Equity,Bank of Ireland Group PLC,SXXE,HQ4JLP-R
+KOJAMO FH Equity,Kojamo Oyj,SXXE,HP9HLX-R
+REE SM Equity,Red Electrica Corp SA,SXXE,HP1KTT-R
+AMS SM Equity,Amadeus IT Group SA,SXXE,HMZCMS-R
+HEN3 GR Equity,Henkel AG & Co KGaA,SXXE,HJLYBN-R
+HEIA NA Equity,Heineken NV,SXXE,HF7CXJ-R
+LXS GR Equity,LANXESS AG,SXXE,H8M907-R
+CRH LN Equity,CRH PLC,SXXE,H6D55C-R
+ACKB BB Equity,Ackermans & van Haaren NV,SXXE,H0LS10-R
+KPN NA Equity,Koninklijke KPN NV,SXXE,GY9DY1-R
+ENR GR Equity,Siemens Energy AG,SXXE,GXQDVD-R
+BG AV Equity,BAWAG Group AG,SXXE,GW7KTS-R
+SK FP Equity,SEB SA,SXXE,GW21MY-R
+STM IM Equity,STMicroelectronics NV,SXXE,GW0ZLY-R
+1COV GR Equity,Covestro AG,SXXE,GVJ2XN-R
+ENX FP Equity,Euronext NV,SXXE,GTX4SW-R
+ACA FP Equity,Credit Agricole SA,SXXE,GSX767-R
+BNP FP Equity,BNP Paribas SA,SXXE,GSRMDX-R
+MC FP Equity,LVMH Moet Hennessy Louis Vuitton SE,SXXE,GQH86W-R
+ALV GR Equity,Allianz SE,SXXE,GQH62T-R
+KN FP Equity,Natixis SA,SXXE,GND87W-R
+BNR GR Equity,Brenntag SE,SXXE,GM98K3-R
+ASM NA Equity,ASM International NV,SXXE,GM7H09-R
+CS FP Equity,AXA SA,SXXE,GM702V-R
+LIN GR Equity,Linde PLC,SXXE,GM21N6-R
+SESG FP Equity,SES SA,SXXE,GJV8GN-R
+ANA SM Equity,Acciona SA,SXXE,GGL1JR-R
+NEXI IM Equity,Nexi SpA,SXXE,GD0QSV-R
+SAE GR Equity,Shop Apotheke Europe NV,SXXE,G7Q1VD-R
+SOP FP Equity,Sopra Steria Group SACA,SXXE,G12VZ9-R
+REP SM Equity,Repsol SA,SXXE,G0XN0D-R
+NEM GR Equity,Nemetschek SE,SXXE,FYP7N8-R
+GXI GR Equity,Gerresheimer AG,SXXE,FXMKFQ-R
+BAYN GR Equity,Bayer AG,SXXE,FVCVC5-R
+RHM GR Equity,Rheinmetall AG,SXXE,FT4G44-R
+FDJ FP Equity,La Francaise des Jeux SAEM,SXXE,FT4D8B-R
+GBLB BB Equity,Groupe Bruxelles Lambert SA,SXXE,FLFHHZ-R
+RXL FP Equity,Rexel SA,SXXE,FBG90Z-R
+SRT3 GR Equity,Sartorius AG,SXXE,FBBQ6M-R
+SW FP Equity,Sodexo SA,SXXE,F86RDQ-R
+CAP FP Equity,Capgemini SE,SXXE,F86QBP-R
+SIE GR Equity,Siemens AG,SXXE,F82JBR-R
+EN FP Equity,Bouygues SA,SXXE,F5TYNG-R
+PRX NA Equity,Prosus NV,SXXE,F39WDV-R
+EOAN GR Equity,E.ON SE,SXXE,F2JQPJ-R
+LEG GR Equity,LEG Immobilien SE,SXXE,DZPGCQ-R
+MT NA Equity,ArcelorMittal SA,SXXE,DZ437D-R
+VPK NA Equity,Koninklijke Vopak NV,SXXE,DTGY93-R
+CRBN NA Equity,Corbion NV,SXXE,DS9SB5-R
+DAI GR Equity,Daimler AG,SXXE,DRBPYY-R
+TKA GR Equity,thyssenkrupp AG,SXXE,DQ5QB5-R
+DTE GR Equity,Deutsche Telekom AG,SXXE,DMXKJB-R
+ARGX BB Equity,Argenx SE,SXXE,DG473N-R
+COFB BB Equity,Cofinimmo SA,SXXE,D9L3BL-R
+RMS FP Equity,Hermes International,SXXE,D9KCYX-R
+SKG LN Equity,Smurfit Kappa Group PLC,SXXE,D8NXL4-R
+INW IM Equity,Infrastrutture Wireless Italiane SpA,SXXE,D4NXL8-R
+FME GR Equity,Fresenius Medical Care AG & Co KGaA,SXXE,D3XD6P-R
+CBK GR Equity,Commerzbank AG,SXXE,D3HSB0-R
+TEF SM Equity,Telefonica SA,SXXE,CPDD2G-R
+LDO IM Equity,Leonardo SpA,SXXE,CM4SB4-R
+ORNBV FH Equity,Orion Oyj,SXXE,CGMTCS-R
+ERF FP Equity,Eurofins Scientific SE,SXXE,CGGTW3-R
+ELI BB Equity,Elia Group SA/NV,SXXE,CB3CHZ-R
+AGS BB Equity,Ageas SA/NV,SXXE,C5C2LR-R
+ATO FP Equity,Atos SE,SXXE,C1ZH3L-R
+WLN FP Equity,Worldline SA/France,SXXE,C0V8L5-R
+CNP FP Equity,CNP Assurances,SXXE,BXL2ZL-R
+SOF BB Equity,Sofina SA,SXXE,BV5649-R
+UN01 GR Equity,Uniper SE,SXXE,BQK76V-R
+VIE FP Equity,Veolia Environnement SA,SXXE,BLBH7J-R
+IMCD NA Equity,IMCD NV,SXXE,BK738W-R
+ENEL IM Equity,Enel SpA,SXXE,BFTG53-R
+BC8 GR Equity,Bechtle AG,SXXE,BB8V37-R
+IBE SM Equity,Iberdrola SA,SXXE,B97PT2-R
+ADYEN NA Equity,Adyen NV,SXXE,B8DGF3-R
+SHL GR Equity,Siemens Healthineers AG,SXXE,B4W80H-R
+FRE GR Equity,Fresenius SE & Co KGaA,SXXE,B3LWD0-R
+KYGA LN Equity,Kerry Group PLC,SXXP,H7D23C-R
+SKG LN Equity,Smurfit Kappa Group PLC,SXXP,D8NXL4-R
+CRH LN Equity,CRH PLC,SXXP,H6D55C-R
+BIRG LN Equity,Bank of Ireland Group PLC,SXXP,HQ4JLP-R
+FLTR LN Equity,Flutter Entertainment PLC,SXXP,VDW0JH-R
+GLB LN Equity,Glanbia PLC,SXXP,JFWSPK-R
+RYA LN Equity,Ryanair Holdings PLC,SXXP,SY8CCT-R
+KGP LN Equity,Kingspan Group PLC,SXXP,F97SHS-R
+VNA GR Equity,Vonovia SE,SXXP,XPYPGM-R
+PEO PW Equity,Bank Polska Kasa Opieki SA,SXXP,XLYS7D-R
+WIZZ LN Equity,Wizz Air Holdings Plc,SXXP,XL1474-R
+AKE FP Equity,Arkema SA,SXXP,XKWXKK-R
+CARLB DC Equity,Carlsberg AS,SXXP,XJP7Q6-R
+AFB SS Equity,AF Poyry AB,SXXP,XJLJJN-R
+ELE SM Equity,Endesa SA,SXXP,XJKZH4-R
+LHN SW Equity,Holcim Ltd,SXXP,XHL1H3-R
+RMG LN Equity,Royal Mail PLC,SXXP,XH6933-R
+WEIR LN Equity,Weir Group PLC/The,SXXP,XG8BVX-R
+BAMI IM Equity,Banco BPM SpA,SXXP,XC3B11-R
+INDT SS Equity,Indutrade AB,SXXP,XBY522-R
+AALB NA Equity,Aalberts NV,SXXP,X9WZPW-R
+ITV LN Equity,ITV PLC,SXXP,X9RQKW-R
+FGR FP Equity,Eiffage SA,SXXP,X9RMCS-R
+KGX GR Equity,KION Group AG,SXXP,X9G6FZ-R
+IP IM Equity,Interpump Group SpA,SXXP,X8MC3P-R
+UDG LN Equity,UDG Healthcare PLC,SXXP,X56VXP-R
+GNS LN Equity,Genus PLC,SXXP,X477HY-R
+EDPR PL Equity,EDP Renovaveis SA,SXXP,X41LWS-R
+MNDI LN Equity,Mondi PLC,SXXP,X31C9G-R
+FABG SS Equity,Fabege AB,SXXP,X1TYV7-R
+ICP LN Equity,Intermediate Capital Group PLC,SXXP,X1TGXS-R
+HUH1V FH Equity,Huhtamaki Oyj,SXXP,X1TBNN-R
+EQT SS Equity,EQT AB,SXXP,X0M159-R
+EO FP Equity,Faurecia SE,SXXP,WZJV6H-R
+ADE NO Equity,Adevinta ASA,SXXP,WY3QLM-R
+EPIA SS Equity,Epiroc AB,SXXP,WXJXS1-R
+HSX LN Equity,Hiscox Ltd,SXXP,WW8WNR-R
+HIK LN Equity,Hikma Pharmaceuticals PLC,SXXP,WRRSLC-R
+IMB LN Equity,Imperial Brands PLC,SXXP,WRQWWJ-R
+URW NA Equity,Unibail-Rodamco-Westfield,SXXP,WL9C30-R
+G24 GR Equity,Scout24 AG,SXXP,WKN8S4-R
+ROCKB DC Equity,ROCKWOOL International A/S,SXXP,WK2NJZ-R
+ROR LN Equity,Rotork PLC,SXXP,WK11GG-R
+AMP IM Equity,Amplifon SpA,SXXP,WJWHT6-R
+VALMT FH Equity,Valmet Oyj,SXXP,WJNT62-R
+PHIA NA Equity,Koninklijke Philips NV,SXXP,WGRN6D-R
+GRF SM Equity,Grifols SA,SXXP,WDKLDJ-R
+IMI LN Equity,IMI PLC,SXXP,WDBQ92-R
+LI FP Equity,Klepierre SA,SXXP,WCCWD2-R
+GIVN SW Equity,Givaudan SA,SXXP,WB7QB2-R
+RAA GR Equity,Rational AG,SXXP,W8Z700-R
+G IM Equity,Assicurazioni Generali SpA,SXXP,W7TTGS-R
+SOLB BB Equity,Solvay SA,SXXP,W7T0Z1-R
+AMUN FP Equity,Amundi SA,SXXP,W7GV53-R
+EDF FP Equity,Electricite de France SA,SXXP,W6QTMW-R
+CHR DC Equity,Chr Hansen Holding A/S,SXXP,W4N5GB-R
+DLG GR Equity,Dialog Semiconductor PLC,SXXP,W4FDDV-R
+AVST LN Equity,Avast PLC,SXXP,W2JHR7-R
+SDR LN Equity,Schroders PLC,SXXP,W255GY-R
+GAW LN Equity,Games Workshop Group PLC,SXXP,W1439V-R
+BRBY LN Equity,Burberry Group PLC,SXXP,W1427T-R
+PKN PW Equity,Polski Koncern Naftowy ORLEN SA,SXXP,W0ZW7W-R
+IDIA SW Equity,Idorsia Ltd,SXXP,VYVLHB-R
+PZU PW Equity,Powszechny Zaklad Ubezpieczen SA,SXXP,VYTGTR-R
+GLE FP Equity,Societe Generale SA,SXXP,VXQN5W-R
+BLND LN Equity,British Land Co PLC/The,SXXP,VXL7SR-R
+IPN FP Equity,Ipsen SA,SXXP,VWJ2JM-R
+KNEBV FH Equity,Kone Oyj,SXXP,VWH0HM-R
+OMV AV Equity,OMV AG,SXXP,VVCHP7-R
+RBREW DC Equity,Royal Unibrew A/S,SXXP,VTCPYB-R
+UPM FH Equity,UPM-Kymmene Oyj,SXXP,VQYLTZ-R
+HLMA LN Equity,Halma PLC,SXXP,VQYC7M-R
+AGN NA Equity,Aegon NV,SXXP,VPRXRF-R
+ASRNL NA Equity,ASR Nederland NV,SXXP,VPJF20-R
+DSY FP Equity,Dassault Systemes SE,SXXP,VMHPTJ-R
+ELUXB SS Equity,Electrolux AB,SXXP,VKDKLD-R
+RNO FP Equity,Renault SA,SXXP,VK7479-R
+MONC IM Equity,Moncler SpA,SXXP,VK44PN-R
+NESTE FH Equity,Neste Oyj,SXXP,VJ9CC9-R
+AD NA Equity,Koninklijke Ahold Delhaize NV,SXXP,VJ7HTK-R
+COV FP Equity,Covivio,SXXP,VCL3F1-R
+SAMPO FH Equity,Sampo Oyj,SXXP,VBKJ5D-R
+STJ LN Equity,St James's Place PLC,SXXP,V9GD2C-R
+WALLB SS Equity,Wallenstam AB,SXXP,V76GQR-R
+SSE LN Equity,SSE PLC,SXXP,V70D41-R
+HFG GR Equity,HelloFresh SE,SXXP,V62YK0-R
+RAND NA Equity,Randstad NV,SXXP,V4XB0Z-R
+PRU LN Equity,Prudential PLC,SXXP,V4QWNW-R
+DPW GR Equity,Deutsche Post AG,SXXP,V3R2XZ-R
+JMT PL Equity,Jeronimo Martins SGPS SA,SXXP,V2HLHV-R
+VMUK LN Equity,Virgin Money UK PLC,SXXP,V13BHR-R
+TECN SW Equity,Tecan Group AG,SXXP,V0CW55-R
+SKFB SS Equity,SKF AB,SXXP,V0CLMX-R
+DANSKE DC Equity,Danske Bank A/S,SXXP,TZ1Y2R-R
+CCL LN Equity,Carnival PLC,SXXP,TXY1K0-R
+MB IM Equity,Mediobanca Banca di Credito Finanziario,SXXP,TWYX1Q-R
+WKL NA Equity,Wolters Kluwer NV,SXXP,TWWNXR-R
+WPP LN Equity,WPP PLC,SXXP,TVSR2S-R
+VER AV Equity,Verbund AG,SXXP,TVPQ9Y-R
+ATL IM Equity,Atlantia SpA,SXXP,TQ8XDK-R
+AGR LN Equity,Assura PLC,SXXP,TP0MGP-R
+HER IM Equity,Hera SpA,SXXP,TP09WD-R
+ELIS FP Equity,Elis SA,SXXP,TN5Y36-R
+NN NA Equity,NN Group NV,SXXP,TMWCW7-R
+EVT GR Equity,Evotec SE,SXXP,TLWJDN-R
+EMSN SW Equity,EMS-Chemie Holding AG,SXXP,TKR72J-R
+LIGHT NA Equity,Signify NV,SXXP,TH0NDS-R
+LIFCOB SS Equity,Lifco AB,SXXP,TGN13R-R
+BOL SS Equity,Boliden AB,SXXP,TG9824-R
+CSP LN Equity,Countryside Properties PLC,SXXP,TCNZKC-R
+SREN SW Equity,Swiss Re AG,SXXP,T8YXW3-R
+LOGN SW Equity,Logitech International SA,SXXP,T7C5W9-R
+GALP PL Equity,Galp Energia SGPS SA,SXXP,T6GNCG-R
+HAS LN Equity,Hays PLC,SXXP,T66ZR8-R
+HWDN LN Equity,Howden Joinery Group PLC,SXXP,T53VN7-R
+FER SM Equity,Ferrovial SA,SXXP,T31DQR-R
+ACS SM Equity,ACS Actividades de Construccion y Servic,SXXP,T1Q642-R
+NESN SW Equity,Nestle SA,SXXP,T0JRMW-R
+VTY LN Equity,Vistry Group PLC,SXXP,SY9MT0-R
+ALC SW Equity,Alcon Inc,SXXP,SXZFWZ-R
+RUI FP Equity,Rubis SCA,SXXP,SX578S-R
+SCMN SW Equity,Swisscom AG,SXXP,SSRNYQ-R
+SPX LN Equity,Spirax-Sarco Engineering PLC,SXXP,SRS3P1-R
+DGE LN Equity,Diageo PLC,SXXP,SRR0L0-R
+OR FP Equity,L'Oreal SA,SXXP,SQG6NN-R
+UTDI GR Equity,United Internet AG,SXXP,SNCKBZ-R
+TEN IM Equity,Tenaris SA,SXXP,SN6T9J-R
+VIFN SW Equity,Vifor Pharma AG,SXXP,SKZ6K6-R
+TRN IM Equity,Terna Rete Elettrica Nazionale SpA,SXXP,SKZ5H5-R
+BAS GR Equity,BASF SE,SXXP,SKYG3H-R
+ADEN SW Equity,Adecco Group AG,SXXP,SKXD2H-R
+JDEP NA Equity,JDE Peet's NV,SXXP,SK4CJ6-R
+EKTAB SS Equity,Elekta AB,SXXP,SJXTST-R
+PSPN SW Equity,PSP Swiss Property AG,SXXP,SGQ0K7-R
+CLN SW Equity,Clariant AG,SXXP,SDDWXH-R
+HPOLB SS Equity,Hexpol AB,SXXP,SDCW2N-R
+CA FP Equity,Carrefour SA,SXXP,SDCTWH-R
+BN FP Equity,Danone SA,SXXP,SC37CB-R
+RB/ LN Equity,Reckitt Benckiser Group PLC,SXXP,S8ZFWL-R
+BP/ LN Equity,BP PLC,SXXP,S8V1HG-R
+TRN LN Equity,Trainline PLC,SXXP,S8JN79-R
+DBK GR Equity,Deutsche Bank AG,SXXP,S6QLP1-R
+BBVA SM Equity,Banco Bilbao Vizcaya Argentaria SA,SXXP,S6PT59-R
+SEV FP Equity,Suez SA,SXXP,S6KQHL-R
+TRYG DC Equity,Tryg A/S,SXXP,S4HTHH-R
+EXPN LN Equity,Experian PLC,SXXP,S243YB-R
+SIM DC Equity,SimCorp A/S,SXXP,S22HVT-R
+RBI AV Equity,Raiffeisen Bank International AG,SXXP,S0YJ3Z-R
+EQNR NO Equity,Equinor ASA,SXXP,RZSB30-R
+DUFN SW Equity,Dufry AG,SXXP,RXPGD4-R
+INDUA SS Equity,Industrivarden AB,SXXP,RWDF0K-R
+TIT IM Equity,Telecom Italia SpA/Milano,SXXP,RT6ZD8-R
+DB1 GR Equity,Deutsche Boerse AG,SXXP,RT6W65-R
+BMW GR Equity,Bayerische Motoren Werke AG,SXXP,RT6MQY-R
+IAG LN Equity,International Consolidated Airlines Grou,SXXP,RT3HS0-R
+STAN LN Equity,Standard Chartered PLC,SXXP,RT2GT1-R
+PHNX LN Equity,Phoenix Group Holdings PLC,SXXP,RS2N47-R
+RIO LN Equity,Rio Tinto PLC,SXXP,RS2FLX-R
+SOBI SS Equity,Swedish Orphan Biovitrum AB,SXXP,RQX8MZ-R
+EDP PL Equity,EDP - Energias de Portugal SA,SXXP,RQTY5S-R
+AUTO LN Equity,Auto Trader Group PLC,SXXP,RQC189-R
+AVV LN Equity,AVEVA Group PLC,SXXP,RPV8Q0-R
+IWG LN Equity,IWG PLC,SXXP,RNQ5S2-R
+PHP LN Equity,Primary Health Properties PLC,SXXP,RNKSCY-R
+DSM NA Equity,Koninklijke DSM NV,SXXP,RNJP8X-R
+EVK GR Equity,Evonik Industries AG,SXXP,RN0R13-R
+KNIN SW Equity,Kuehne + Nagel International AG,SXXP,RML0Q2-R
+FNTN GR Equity,Freenet AG,SXXP,RMHTJ0-R
+LISN SW Equity,Chocoladefabriken Lindt & Spruengli AG,SXXP,RKB29F-R
+SGO FP Equity,Cie de Saint-Gobain,SXXP,RK87TQ-R
+DPH LN Equity,Dechra Pharmaceuticals PLC,SXXP,RK53VS-R
+ILD FP Equity,Iliad SA,SXXP,RH0XLN-R
+KBX GR Equity,Knorr-Bremse AG,SXXP,RGB6QT-R
+LMP LN Equity,LondonMetric Property PLC,SXXP,RFW6M8-R
+ABF LN Equity,Associated British Foods PLC,SXXP,RFRHDN-R
+GFC FP Equity,Gecina SA,SXXP,RDQKHP-R
+ATE FP Equity,Alten SA,SXXP,RCFYZJ-R
+LATOB SS Equity,Investment AB Latour,SXXP,RBHVG6-R
+PKO PW Equity,Powszechna Kasa Oszczednosci Bank Polski,SXXP,RBCQLB-R
+ENI IM Equity,Eni SpA,SXXP,R9B29P-R
+CMBN SW Equity,Cembra Money Bank AG,SXXP,R7RWKM-R
+DG FP Equity,Vinci SA,SXXP,R71R5P-R
+EL FP Equity,EssilorLuxottica SA,SXXP,R6Y499-R
+DSV DC Equity,DSV PANALPINA A/S,SXXP,R4PJJZ-R
+ENG SM Equity,Enagas SA,SXXP,R2JVCD-R
+TELIA SS Equity,Telia Co AB,SXXP,R2JS7B-R
+LGEN LN Equity,Legal & General Group PLC,SXXP,R033YB-R
+MAERSKB DC Equity,AP Moller - Maersk A/S,SXXP,QZ4Y8Y-R
+SECUB SS Equity,Securitas AB,SXXP,QZ3B6F-R
+SRG IM Equity,Snam SpA,SXXP,QYYXT9-R
+GEBN SW Equity,Geberit AG,SXXP,QYYQF3-R
+SPIE FP Equity,SPIE SA,SXXP,QV6J9K-R
+CPR IM Equity,Davide Campari-Milano NV,SXXP,QTFWQW-R
+ALO FP Equity,Alstom SA,SXXP,QSF694-R
+IG IM Equity,Italgas SpA,SXXP,QS9BG1-R
+SWON SW Equity,Softwareone Holding AG,SXXP,QR9G8S-R
+SWMA SS Equity,Swedish Match AB,SXXP,QQ5SY0-R
+CBG LN Equity,Close Brothers Group PLC,SXXP,QNWBS1-R
+AT1 GR Equity,Aroundtown SA,SXXP,QM7F8W-R
+ML FP Equity,Michelin,SXXP,QLR4HX-R
+SOON SW Equity,Sonova Holding AG,SXXP,QLLYHZ-R
+ENGI FP Equity,Engie SA,SXXP,QKJP1R-R
+HUSQB SS Equity,Husqvarna AB,SXXP,QH99RN-R
+BILL SS Equity,BillerudKorsnas AB,SXXP,QG3PY9-R
+LLOY LN Equity,Lloyds Banking Group PLC,SXXP,QG1XJM-R
+ADS GR Equity,adidas AG,SXXP,QDYYRR-R
+SMDS LN Equity,DS Smith PLC,SXXP,QCZ86Y-R
+SCR FP Equity,SCOR SE,SXXP,QBX2YT-R
+VOW3 GR Equity,Volkswagen AG,SXXP,QBTQFL-R
+NETC DC Equity,Netcompany Group A/S,SXXP,Q9SWCC-R
+DEMANT DC Equity,Demant A/S,SXXP,Q9JDJR-R
+VOE AV Equity,voestalpine AG,SXXP,Q9J52J-R
+GSK LN Equity,GlaxoSmithKline PLC,SXXP,Q8D48N-R
+MUV2 GR Equity,Munich Re,SXXP,Q8CXWG-R
+ABN NA Equity,ABN AMRO Bank NV,SXXP,Q7XWQX-R
+INF LN Equity,Informa PLC,SXXP,Q77TYJ-R
+FHZN SW Equity,Flughafen Zurich AG,SXXP,Q553HS-R
+SAP GR Equity,SAP SE,SXXP,Q53RYJ-R
+ELISA FH Equity,Elisa Oyj,SXXP,Q514Z2-R
+INCH LN Equity,Inchcape PLC,SXXP,Q3ZMYK-R
+SBBB SS Equity,Samhallsbyggnadsbolaget i Norden AB,SXXP,Q21FMK-R
+BARC LN Equity,Barclays PLC,SXXP,Q1KZKH-R
+EDEN FP Equity,Edenred,SXXP,Q0JVDG-R
+RACE IM Equity,Ferrari NV,SXXP,Q05NFB-R
+AFX GR Equity,Carl Zeiss Meditec AG,SXXP,PZGYJG-R
+KBC BB Equity,KBC Group NV,SXXP,PZGQ27-R
+SCT LN Equity,Softcat PLC,SXXP,PYV9PN-R
+ALLN SW Equity,Allreal Holding AG,SXXP,PY6Z5W-R
+SU FP Equity,Schneider Electric SE,SXXP,PVX0ZC-R
+EBS AV Equity,Erste Group Bank AG,SXXP,PQHMVC-R
+WTB LN Equity,Whitbread PLC,SXXP,PN6Z21-R
+VACN SW Equity,VAT Group AG,SXXP,PMSGZ0-R
+AENA SM Equity,Aena SME SA,SXXP,PM9V18-R
+ZAL GR Equity,Zalando SE,SXXP,PM6KP2-R
+FTI FP Equity,TechnipFMC PLC,SXXP,PM465W-R
+AIR FP Equity,Airbus SE,SXXP,PKYMY1-R
+GET FP Equity,Getlink SE,SXXP,PKTRNJ-R
+PAH3 GR Equity,Porsche Automobil Holding SE,SXXP,PKT6GW-R
+BKT SM Equity,Bankinter SA,SXXP,PHL0HY-R
+PSN LN Equity,Persimmon PLC,SXXP,PFG3V3-R
+MOWI NO Equity,Mowi ASA,SXXP,PDBDMJ-R
+FR FP Equity,Valeo SA,SXXP,PD8SK0-R
+REL LN Equity,RELX PLC,SXXP,PC4MH0-R
+LR FP Equity,Legrand SA,SXXP,PB2NM2-R
+BALDB SS Equity,Fastighets AB Balder,SXXP,PB1Z9F-R
+ITRK LN Equity,Intertek Group PLC,SXXP,P8X97Y-R
+ECM LN Equity,Electrocomponents PLC,SXXP,P7S21W-R
+ALFA SS Equity,Alfa Laval AB,SXXP,P7RWQQ-R
+TEG GR Equity,TAG Immobilien AG,SXXP,P6MRQR-R
+ERICB SS Equity,Telefonaktiebolaget LM Ericsson,SXXP,P6LTYW-R
+TKWY NA Equity,Just Eat Takeaway.com NV,SXXP,P6FKFG-R
+DHER GR Equity,Delivery Hero SE,SXXP,P5GH6C-R
+IFX GR Equity,Infineon Technologies AG,SXXP,P59ZZH-R
+KER FP Equity,Kering SA,SXXP,P45SVG-R
+EVD GR Equity,CTS Eventim AG & Co KGaA,SXXP,P32T0K-R
+REC IM Equity,Recordati Industria Chimica e Farmaceuti,SXXP,P1YDHB-R
+GMAB DC Equity,Genmab A/S,SXXP,P0YS2L-R
+SAB SM Equity,Banco de Sabadell SA,SXXP,NZTKYK-R
+VOLVB SS Equity,Volvo AB,SXXP,NZSHXK-R
+FORTUM FH Equity,Fortum Oyj,SXXP,NZP5KF-R
+CABK SM Equity,CaixaBank SA,SXXP,NZNF7V-R
+SEBA SS Equity,Skandinaviska Enskilda Banken AB,SXXP,NYJ1NJ-R
+MGGT LN Equity,Meggitt PLC,SXXP,NYHXDD-R
+ISP IM Equity,Intesa Sanpaolo SpA,SXXP,NYHV8B-R
+EXO IM Equity,EXOR NV,SXXP,NXK0CB-R
+AC FP Equity,Accor SA,SXXP,NSZ0P5-R
+POLY LN Equity,Polymetal International PLC,SXXP,NSGMFV-R
+HELN SW Equity,Helvetia Holding AG,SXXP,NQWDFJ-R
+SAN SM Equity,Banco Santander SA,SXXP,NQPWYC-R
+AMBUB DC Equity,Ambu A/S,SXXP,NNMH2X-R
+FP FP Equity,TOTAL SE,SXXP,NL9BH6-R
+EMG LN Equity,Man Group PLC/Jersey,SXXP,NL99F5-R
+GLPG NA Equity,Galapagos NV,SXXP,NK7572-R
+STB NO Equity,Storebrand ASA,SXXP,NJ2NHR-R
+SAF FP Equity,Safran SA,SXXP,NGS8GV-R
+ROSE SW Equity,Zur Rose Group AG,SXXP,NB7GLC-R
+RCO FP Equity,Remy Cointreau SA,SXXP,N939WQ-R
+RMV LN Equity,Rightmove PLC,SXXP,N6W4ZT-R
+AM FP Equity,Dassault Aviation SA,SXXP,N4KJCL-R
+VIS SM Equity,Viscofan SA,SXXP,N3KTTS-R
+ITX SM Equity,Industria de Diseno Textil SA,SXXP,N189DN-R
+YAR NO Equity,Yara International ASA,SXXP,MXS313-R
+KGH PW Equity,KGHM Polska Miedz SA,SXXP,MWM5JD-R
+COLR BB Equity,Etablissements Franz Colruyt NV,SXXP,MWM188-R
+BEIJB SS Equity,Beijer Ref AB,SXXP,MVN234-R
+NOVOB DC Equity,Novo Nordisk A/S,SXXP,MVMFXK-R
+NHY NO Equity,Norsk Hydro ASA,SXXP,MVMBQG-R
+SKAB SS Equity,Skanska AB,SXXP,MTG5RJ-R
+ASSAB SS Equity,Assa Abloy AB,SXXP,MT9XMJ-R
+ROG SW Equity,Roche Holding AG,SXXP,MT9P59-R
+RI FP Equity,Pernod Ricard SA,SXXP,MQ1RPL-R
+MRW LN Equity,Wm Morrison Supermarkets PLC,SXXP,MNX919-R
+PRY IM Equity,Prysmian SpA,SXXP,MLRJQN-R
+MF FP Equity,Wendel SE,SXXP,MLJKF3-R
+BWY LN Equity,Bellway PLC,SXXP,MKHPN6-R
+SXS LN Equity,Spectris PLC,SXXP,MH8MYD-R
+SBRY LN Equity,J Sainsbury PLC,SXXP,MH7DL7-R
+ABI BB Equity,Anheuser-Busch InBev SA/NV,SXXP,MH7BG5-R
+HSBA LN Equity,HSBC Holdings PLC,SXXP,MH2X00-R
+WDP BB Equity,Warehouses De Pauw CVA,SXXP,MDVHMW-R
+TSCO LN Equity,Tesco PLC,SXXP,MDTJSZ-R
+AHT LN Equity,Ashtead Group PLC,SXXP,MCTS43-R
+DWNI GR Equity,Deutsche Wohnen SE,SXXP,MBSR11-R
+NOVN SW Equity,Novartis AG,SXXP,MBPRB7-R
+NOKIA FH Equity,Nokia Oyj,SXXP,M9KK66-R
+CLNX SM Equity,Cellnex Telecom SA,SXXP,M7R42R-R
+AKZA NA Equity,Akzo Nobel NV,SXXP,M79YFW-R
+SAN FP Equity,Sanofi,SXXP,M78XGX-R
+WRT1V FH Equity,Wartsila OYJ Abp,SXXP,M76BKH-R
+UCG IM Equity,UniCredit SpA,SXXP,M60C0S-R
+BESI NA Equity,BE Semiconductor Industries NV,SXXP,M3XC1S-R
+QIA GR Equity,QIAGEN NV,SXXP,M3Q8G2-R
+SAND SS Equity,Sandvik AB,SXXP,LZCMNQ-R
+PUB FP Equity,Publicis Groupe SA,SXXP,LZ645K-R
+INGA NA Equity,ING Groep NV,SXXP,LY6KWW-R
+IHG LN Equity,InterContinental Hotels Group PLC,SXXP,LY217M-R
+VIV FP Equity,Vivendi SE,SXXP,LY205L-R
+BEI GR Equity,Beiersdorf AG,SXXP,LY1Y1J-R
+DCC LN Equity,DCC PLC,SXXP,LXHSHL-R
+FPE3 GR Equity,FUCHS PETROLUB SE,SXXP,LVZ4GQ-R
+HEXAB SS Equity,Hexagon AB,SXXP,LVVB64-R
+FBK IM Equity,FinecoBank Banca Fineco SpA,SXXP,LVTKC1-R
+INVEB SS Equity,Investor AB,SXXP,LVSS7P-R
+PROX BB Equity,Proximus SADP,SXXP,LTTQYH-R
+HEIO NA Equity,Heineken Holding NV,SXXP,LTNDSH-R
+EZJ LN Equity,easyJet PLC,SXXP,LSNJXJ-R
+AED BB Equity,Aedifica SA,SXXP,LRMVGS-R
+SVT LN Equity,Severn Trent PLC,SXXP,LRJK5P-R
+AAL LN Equity,Anglo American PLC,SXXP,LRJCVJ-R
+TUI LN Equity,TUI AG,SXXP,LQD7VK-R
+MTX GR Equity,MTU Aero Engines AG,SXXP,LQ9WBB-R
+NIBEB SS Equity,Nibe Industrier AB,SXXP,LP9QY3-R
+TYRES FH Equity,Nokian Renkaat Oyj,SXXP,LP3TNK-R
+RF FP Equity,Eurazeo SE,SXXP,LLW6X7-R
+ALE PW Equity,Allegro.eu SA,SXXP,LLFN8R-R
+CPG LN Equity,Compass Group PLC,SXXP,LJQ74C-R
+OCDO LN Equity,Ocado Group PLC,SXXP,LHPBFK-R
+CNA LN Equity,Centrica PLC,SXXP,LHKZY9-R
+DNP PW Equity,Dino Polska SA,SXXP,LHK3T0-R
+SGRE SM Equity,Siemens Gamesa Renewable Energy SA,SXXP,LGC7YW-R
+UBI FP Equity,Ubisoft Entertainment SA,SXXP,LG9GK6-R
+LUNE SS Equity,Lundin Energy AB,SXXP,LF9T2F-R
+ICA SS Equity,ICA Gruppen AB,SXXP,LF7DH5-R
+SFZN SW Equity,Siegfried Holding AG,SXXP,LF6ZPS-R
+ADP FP Equity,Aeroports de Paris,SXXP,LD8KL5-R
+BIM FP Equity,BioMerieux,SXXP,LD75YW-R
+SCHP SW Equity,Schindler Holding AG,SXXP,LC2JZF-R
+ATCOA SS Equity,Atlas Copco AB,SXXP,LC28G5-R
+PGHN SW Equity,Partners Group Holding AG,SXXP,LBZ7PB-R
+LUNDB SS Equity,L E Lundbergforetagen AB,SXXP,L9YRMS-R
+HNR1 GR Equity,Hannover Rueck SE,SXXP,L8SYB5-R
+JMAT LN Equity,Johnson Matthey PLC,SXXP,L8NP65-R
+HO FP Equity,Thales SA,SXXP,L7MP54-R
+WIE AV Equity,Wienerberger AG,SXXP,L6DD46-R
+TMV GR Equity,TeamViewer AG,SXXP,L65FJB-R
+SN/ LN Equity,Smith & Nephew PLC,SXXP,L5CD35-R
+DNB NO Equity,DNB ASA,SXXP,L57WDW-R
+CNHI IM Equity,CNH Industrial NV,SXXP,L518VQ-R
+EVO SS Equity,Evolution AB,SXXP,L3H7V7-R
+UMI BB Equity,Umicore SA,SXXP,L1YNFY-R
+NTGY SM Equity,Naturgy Energy Group SA,SXXP,L0Q74W-R
+BALN SW Equity,Baloise Holding AG,SXXP,KYL30T-R
+BOL FP Equity,Bollore SA,SXXP,KYL1YS-R
+DIA IM Equity,DiaSorin SpA,SXXP,KXDF6J-R
+BVIC LN Equity,Britvic PLC,SXXP,KW6FJP-R
+PSM GR Equity,ProSiebenSat.1 Media SE,SXXP,KV03BN-R
+KESKOB FH Equity,Kesko Oyj,SXXP,KRX5HQ-R
+DIM FP Equity,Sartorius Stedim Biotech,SXXP,KQMGSG-R
+UCB BB Equity,UCB SA,SXXP,KNHDSG-R
+NEL NO Equity,NEL ASA,SXXP,KNCW14-R
+CFR SW Equity,Cie Financiere Richemont SA,SXXP,KNB0HD-R
+PSON LN Equity,Pearson PLC,SXXP,KL682P-R
+BVI FP Equity,Bureau Veritas SA,SXXP,KL214V-R
+SBMO NA Equity,SBM Offshore NV,SXXP,KL1VPK-R
+MRL SM Equity,Merlin Properties Socimi SA,SXXP,KK2X62-R
+RBS LN Equity,Natwest Group PLC,SXXP,KHS6Z8-R
+KINVB SS Equity,Kinnevik AB,SXXP,KFQ0J0-R
+MRK GR Equity,Merck KGaA,SXXP,KFN73B-R
+ORSTED DC Equity,Orsted AS,SXXP,KFDRGY-R
+THULE SS Equity,Thule Group AB,SXXP,KDVW4Z-R
+TRELB SS Equity,Trelleborg AB,SXXP,KDFDZV-R
+SIGN SW Equity,SIG Combibloc Group AG,SXXP,KCYPFK-R
+PST IM Equity,Poste Italiane SpA,SXXP,KBR84J-R
+TEL2B SS Equity,Tele2 AB,SXXP,K6W4F5-R
+PUM GR Equity,Puma SE,SXXP,K6PMY0-R
+DLN LN Equity,Derwent London PLC,SXXP,K4GJ34-R
+ZURN SW Equity,Zurich Insurance Group AG,SXXP,K3FPD8-R
+AOX GR Equity,alstria office REIT-AG,SXXP,K3DG13-R
+ORP FP Equity,Orpea SA,SXXP,K01WHX-R
+A2A IM Equity,A2A SpA,SXXP,JYXN9V-R
+SINCH SS Equity,Sinch AB,SXXP,JY8B5D-R
+RTO LN Equity,Rentokil Initial PLC,SXXP,JWNLQ3-R
+ASML NA Equity,ASML Holding NV,SXXP,JWGWTR-R
+COL SM Equity,Inmobiliaria Colonial Socimi SA,SXXP,JTDRHK-R
+BATS LN Equity,British American Tobacco PLC,SXXP,JTC3C0-R
+TW/ LN Equity,Taylor Wimpey PLC,SXXP,JPV6NT-R
+MRO LN Equity,Melrose Industries PLC,SXXP,JPV5LS-R
+G1A GR Equity,GEA Group AG,SXXP,JLFH0L-R
+SGSN SW Equity,SGS SA,SXXP,JLFCTH-R
+TEP FP Equity,Teleperformance,SXXP,JK94MF-R
+HMB SS Equity,H & M Hennes & Mauritz AB,SXXP,JJ43XM-R
+TOM NO Equity,TOMRA Systems ASA,SXXP,JH4B5Q-R
+UTG LN Equity,UNITE Group PLC/The,SXXP,JH0SFD-R
+SOI FP Equity,SOITEC,SXXP,JFVH6B-R
+IGG LN Equity,IG Group Holdings PLC,SXXP,JDXSGD-R
+STERV FH Equity,Stora Enso Oyj,SXXP,JCQQSM-R
+MOR GR Equity,MorphoSys AG,SXXP,J62PZC-R
+BME LN Equity,B&M European Value Retail SA,SXXP,J5XDH0-R
+ANDR AV Equity,ANDRITZ AG,SXXP,J4T9VD-R
+VOD LN Equity,Vodafone Group PLC,SXXP,J4RDQ3-R
+SY1 GR Equity,Symrise AG,SXXP,J3R0B4-R
+NG/ LN Equity,National Grid PLC,SXXP,J2N4RC-R
+CON GR Equity,Continental AG,SXXP,J2HM33-R
+HOLMB SS Equity,Holmen AB,SXXP,J1JT84-R
+ESSITYB SS Equity,Essity AB,SXXP,J1HNQQ-R
+BUCN SW Equity,Bucher Industries AG,SXXP,J0DWNC-R
+LHA GR Equity,Deutsche Lufthansa AG,SXXP,J0CL54-R
+RWE GR Equity,RWE AG,SXXP,J07D56-R
+HSV LN Equity,HomeServe PLC,SXXP,HZ8NG9-R
+HEI GR Equity,HeidelbergCement AG,SXXP,HZ43T1-R
+AI FP Equity,Air Liquide SA,SXXP,HXYRFX-R
+BBOX LN Equity,Tritax Big Box REIT PLC,SXXP,HXW8WR-R
+NZYMB DC Equity,Novozymes A/S,SXXP,HWYYQ0-R
+GYC GR Equity,Grand City Properties SA,SXXP,HTB1H4-R
+BHP LN Equity,BHP Group PLC,SXXP,HSF47Y-R
+ORA FP Equity,Orange SA,SXXP,HSDXVR-R
+KOJAMO FH Equity,Kojamo Oyj,SXXP,HP9HLX-R
+REE SM Equity,Red Electrica Corp SA,SXXP,HP1KTT-R
+AMS SM Equity,Amadeus IT Group SA,SXXP,HMZCMS-R
+RSA LN Equity,RSA Insurance Group PLC,SXXP,HKLT6M-R
+HEN3 GR Equity,Henkel AG & Co KGaA,SXXP,HJLYBN-R
+HEIA NA Equity,Heineken NV,SXXP,HF7CXJ-R
+SLHN SW Equity,Swiss Life Holding AG,SXXP,HF31NG-R
+CCH LN Equity,Coca-Cola HBC AG,SXXP,HDL2BM-R
+FERG LN Equity,Ferguson PLC,SXXP,H9SSMH-R
+UU/ LN Equity,United Utilities Group PLC,SXXP,H9PG8C-R
+LXS GR Equity,LANXESS AG,SXXP,H8M907-R
+TEL NO Equity,Telenor ASA,SXXP,H7F209-R
+BA/ LN Equity,BAE Systems PLC,SXXP,H3ZDL6-R
+ACKB BB Equity,Ackermans & van Haaren NV,SXXP,H0LS10-R
+GRI LN Equity,Grainger PLC,SXXP,GZGWH8-R
+AZN LN Equity,AstraZeneca PLC,SXXP,GY9L86-R
+KPN NA Equity,Koninklijke KPN NV,SXXP,GY9DY1-R
+ENR GR Equity,Siemens Energy AG,SXXP,GXQDVD-R
+III LN Equity,3i Group PLC,SXXP,GX5F66-R
+BG AV Equity,BAWAG Group AG,SXXP,GW7KTS-R
+SWEDA SS Equity,Swedbank AB,SXXP,GW6H33-R
+SK FP Equity,SEB SA,SXXP,GW21MY-R
+STM IM Equity,STMicroelectronics NV,SXXP,GW0ZLY-R
+1COV GR Equity,Covestro AG,SXXP,GVJ2XN-R
+ISS DC Equity,ISS A/S,SXXP,GV499G-R
+KINDSDB SS Equity,Kindred Group PLC,SXXP,GV30BR-R
+CAST SS Equity,Castellum AB,SXXP,GV2Z8Q-R
+ENX FP Equity,Euronext NV,SXXP,GTX4SW-R
+ACA FP Equity,Credit Agricole SA,SXXP,GSX767-R
+BNP FP Equity,BNP Paribas SA,SXXP,GSRMDX-R
+MC FP Equity,LVMH Moet Hennessy Louis Vuitton SE,SXXP,GQH86W-R
+ALV GR Equity,Allianz SE,SXXP,GQH62T-R
+KN FP Equity,Natixis SA,SXXP,GND87W-R
+BNR GR Equity,Brenntag SE,SXXP,GM98K3-R
+ASM NA Equity,ASM International NV,SXXP,GM7H09-R
+CS FP Equity,AXA SA,SXXP,GM702V-R
+CSGN SW Equity,Credit Suisse Group AG,SXXP,GM2LPQ-R
+LIN GR Equity,Linde PLC,SXXP,GM21N6-R
+GETIB SS Equity,Getinge AB,SXXP,GK0D7G-R
+SESG FP Equity,SES SA,SXXP,GJV8GN-R
+KGF LN Equity,Kingfisher PLC,SXXP,GGPJ50-R
+ANA SM Equity,Acciona SA,SXXP,GGL1JR-R
+GLEN LN Equity,Glencore PLC,SXXP,GDLPN9-R
+NEXI IM Equity,Nexi SpA,SXXP,GD0QSV-R
+THG LN Equity,THG PLC,SXXP,GBK1CP-R
+SAE GR Equity,Shop Apotheke Europe NV,SXXP,G7Q1VD-R
+BCVN SW Equity,Banque Cantonale Vaudoise,SXXP,G6SN46-R
+VWS DC Equity,Vestas Wind Systems A/S,SXXP,G6QVQJ-R
+SCHA NO Equity,Schibsted ASA,SXXP,G4GNVN-R
+SOP FP Equity,Sopra Steria Group SACA,SXXP,G12VZ9-R
+REP SM Equity,Repsol SA,SXXP,G0XN0D-R
+NEM GR Equity,Nemetschek SE,SXXP,FYP7N8-R
+GXI GR Equity,Gerresheimer AG,SXXP,FXMKFQ-R
+SHBA SS Equity,Svenska Handelsbanken AB,SXXP,FWJ4P9-R
+BAYN GR Equity,Bayer AG,SXXP,FVCVC5-R
+RHM GR Equity,Rheinmetall AG,SXXP,FT4G44-R
+FDJ FP Equity,La Francaise des Jeux SAEM,SXXP,FT4D8B-R
+BARN SW Equity,Barry Callebaut AG,SXXP,FS0W5P-R
+ABBN SW Equity,ABB Ltd,SXXP,FQZ7Z2-R
+GJF NO Equity,Gjensidige Forsikring ASA,SXXP,FNW967-R
+HL/ LN Equity,Hargreaves Lansdown PLC,SXXP,FMPBLF-R
+GBLB BB Equity,Groupe Bruxelles Lambert SA,SXXP,FLFHHZ-R
+NENTB SS Equity,Nordic Entertainment Group AB,SXXP,FL5CJW-R
+GN DC Equity,GN Store Nord AS,SXXP,FK99CY-R
+BAKKA NO Equity,Bakkafrost P/F,SXXP,FDPMD5-R
+RXL FP Equity,Rexel SA,SXXP,FBG90Z-R
+SRT3 GR Equity,Sartorius AG,SXXP,FBBQ6M-R
+DPLM LN Equity,Diploma PLC,SXXP,F97RFR-R
+SAGAB SS Equity,Sagax AB,SXXP,F8T8X8-R
+SW FP Equity,Sodexo SA,SXXP,F86RDQ-R
+CAP FP Equity,Capgemini SE,SXXP,F86QBP-R
+SIE GR Equity,Siemens AG,SXXP,F82JBR-R
+EVR LN Equity,Evraz PLC,SXXP,F6M2T7-R
+EN FP Equity,Bouygues SA,SXXP,F5TYNG-R
+AAK SS Equity,AAK AB,SXXP,F3LWYN-R
+PRX NA Equity,Prosus NV,SXXP,F39WDV-R
+EOAN GR Equity,E.ON SE,SXXP,F2JQPJ-R
+LSE LN Equity,London Stock Exchange Group PLC,SXXP,F0BW8V-R
+SGE LN Equity,Sage Group PLC/The,SXXP,F057JK-R
+LEG GR Equity,LEG Immobilien SE,SXXP,DZPGCQ-R
+MT NA Equity,ArcelorMittal SA,SXXP,DZ437D-R
+RR/ LN Equity,Rolls-Royce Holdings PLC,SXXP,DTMN8J-R
+VPK NA Equity,Koninklijke Vopak NV,SXXP,DTGY93-R
+UBSG SW Equity,UBS Group AG,SXXP,DSLY98-R
+CRBN NA Equity,Corbion NV,SXXP,DS9SB5-R
+DAI GR Equity,Daimler AG,SXXP,DRBPYY-R
+SIKA SW Equity,Sika AG,SXXP,DQ7JSW-R
+TKA GR Equity,thyssenkrupp AG,SXXP,DQ5QB5-R
+DTE GR Equity,Deutsche Telekom AG,SXXP,DMXKJB-R
+BEAN SW Equity,Belimo Holding AG,SXXP,DLPK0N-R
+PNN LN Equity,Pennon Group PLC,SXXP,DLMRLZ-R
+BT/A LN Equity,BT Group PLC,SXXP,DKMXT1-R
+SPSN SW Equity,Swiss Prime Site AG,SXXP,DKKBWM-R
+BDEV LN Equity,Barratt Developments PLC,SXXP,DH768X-R
+ARGX BB Equity,Argenx SE,SXXP,DG473N-R
+SGRO LN Equity,Segro PLC,SXXP,DF4GV5-R
+SCAB SS Equity,Svenska Cellulosa AB SCA,SXXP,DF3CR4-R
+JD/ LN Equity,JD Sports Fashion PLC,SXXP,DF01D0-R
+ASHM LN Equity,Ashmore Group PLC,SXXP,DD2FV5-R
+SLA LN Equity,Standard Life Aberdeen PLC,SXXP,DD26CY-R
+STMN SW Equity,Straumann Holding AG,SXXP,DCZ6P4-R
+DLG LN Equity,Direct Line Insurance Group PLC,SXXP,DBXPPN-R
+CDR PW Equity,CD Projekt SA,SXXP,DBXNLL-R
+COFB BB Equity,Cofinimmo SA,SXXP,D9L3BL-R
+RMS FP Equity,Hermes International,SXXP,D9KCYX-R
+ENTRA NO Equity,Entra ASA,SXXP,D6FS6R-R
+GALE SW Equity,Galenica AG,SXXP,D52NY8-R
+INW IM Equity,Infrastrutture Wireless Italiane SpA,SXXP,D4NXL8-R
+FME GR Equity,Fresenius Medical Care AG & Co KGaA,SXXP,D3XD6P-R
+CBK GR Equity,Commerzbank AG,SXXP,D3HSB0-R
+ADM LN Equity,Admiral Group PLC,SXXP,D2TYF9-R
+RDSA NA Equity,Royal Dutch Shell PLC,SXXP,D1R73N-R
+VCT LN Equity,Victrex PLC,SXXP,D0LZXL-R
+ORK NO Equity,Orkla ASA,SXXP,CZHVTK-R
+AZA SS Equity,Avanza Bank Holding AB,SXXP,CY7YM1-R
+FI-N SW Equity,Georg Fischer AG,SXXP,CVZ4KL-R
+NOD NO Equity,Nordic Semiconductor ASA,SXXP,CSQ76Z-R
+LONN SW Equity,Lonza Group AG,SXXP,CRNVGL-R
+NXT LN Equity,Next PLC,SXXP,CQJM8J-R
+TEF SM Equity,Telefonica SA,SXXP,CPDD2G-R
+CRDA LN Equity,Croda International PLC,SXXP,CN97ZF-R
+BNZL LN Equity,Bunzl PLC,SXXP,CMX879-R
+LDO IM Equity,Leonardo SpA,SXXP,CM4SB4-R
+AV/ LN Equity,Aviva PLC,SXXP,CKVFC8-R
+CTEC LN Equity,ConvaTec Group PLC,SXXP,CHLB60-R
+ORNBV FH Equity,Orion Oyj,SXXP,CGMTCS-R
+ERF FP Equity,Eurofins Scientific SE,SXXP,CGGTW3-R
+ANTO LN Equity,Antofagasta PLC,SXXP,CGFLHY-R
+ULVR LN Equity,Unilever PLC,SXXP,CGF31Z-R
+COLOB DC Equity,Coloplast A/S,SXXP,CD71SM-R
+SWECB SS Equity,Sweco AB,SXXP,CD6ZNK-R
+TEMN SW Equity,Temenos AG,SXXP,CC6S48-R
+ELI BB Equity,Elia Group SA/NV,SXXP,CB3CHZ-R
+SMIN LN Equity,Smiths Group PLC,SXXP,C7RT3W-R
+PNDORA DC Equity,Pandora A/S,SXXP,C6RB2B-R
+SALM NO Equity,Salmar ASA,SXXP,C6LWM5-R
+SIG LN Equity,Signature Aviation PLC,SXXP,C6LRH5-R
+AMS SW Equity,ams AG,SXXP,C5K9GL-R
+AGS BB Equity,Ageas SA/NV,SXXP,C5C2LR-R
+MKS LN Equity,Marks & Spencer Group PLC,SXXP,C5C1JQ-R
+SRAIL SW Equity,Stadler Rail AG,SXXP,C2Z78Z-R
+ATO FP Equity,Atos SE,SXXP,C1ZH3L-R
+SSO NO Equity,Scatec ASA,SXXP,C127WQ-R
+BKG LN Equity,Berkeley Group Holdings PLC,SXXP,C11GSC-R
+WLN FP Equity,Worldline SA/France,SXXP,C0V8L5-R
+LAND LN Equity,Land Securities Group PLC,SXXP,BXLFMX-R
+CNP FP Equity,CNP Assurances,SXXP,BXL2ZL-R
+SOF BB Equity,Sofina SA,SXXP,BV5649-R
+BAER SW Equity,Julius Baer Group Ltd,SXXP,BS3CJJ-R
+DOM SS Equity,Dometic Group AB,SXXP,BRPSY3-R
+QLT LN Equity,Quilter PLC,SXXP,BR55CN-R
+UN01 GR Equity,Uniper SE,SXXP,BQK76V-R
+NDA SS Equity,Nordea Bank Abp,SXXP,BQ62W9-R
+ADDTB SS Equity,AddTech AB,SXXP,BNNFG1-R
+AKERBP NO Equity,Aker BP ASA,SXXP,BLBW30-R
+VIE FP Equity,Veolia Environnement SA,SXXP,BLBH7J-R
+BEZ LN Equity,Beazley PLC,SXXP,BK790F-R
+IMCD NA Equity,IMCD NV,SXXP,BK738W-R
+TPK LN Equity,Travis Perkins PLC,SXXP,BJ362H-R
+SMWH LN Equity,WH Smith PLC,SXXP,BFWWTD-R
+ENEL IM Equity,Enel SpA,SXXP,BFTG53-R
+WIHL SS Equity,Wihlborgs Fastigheter AB,SXXP,BCFSNZ-R
+BC8 GR Equity,Bechtle AG,SXXP,BB8V37-R
+IBE SM Equity,Iberdrola SA,SXXP,B97PT2-R
+UHR SW Equity,Swatch Group AG/The,SXXP,B93JW5-R
+ADYEN NA Equity,Adyen NV,SXXP,B8DGF3-R
+TATE LN Equity,Tate & Lyle PLC,SXXP,B80DS4-R
+SHL GR Equity,Siemens Healthineers AG,SXXP,B4W80H-R
+FRE GR Equity,Fresenius SE & Co KGaA,SXXP,B3LWD0-R
+MNG LN Equity,M&G PLC,SXXP,B18MVG-R
+OTE1V FH Equity,Metso Outotec Oyj,SXXP,B045ZY-R
